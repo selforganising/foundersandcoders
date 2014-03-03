@@ -1,0 +1,12 @@
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 4em;
+    letter-spacing: 4px;
+}
+
+.margin-top {
+    margin-top: 60px;
+}
+

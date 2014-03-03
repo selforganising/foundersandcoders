@@ -5,27 +5,37 @@
     <meta charset='utf-8' />
     <meta http-equiv="X-UA-Compatible" content="chrome=1" />
     <meta name="description" content="Founders and Coders" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" media="screen" href="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js">
     <link rel="stylesheet" type="text/css" media="screen" href="//cdnjs.cloudflare.com/ajax/libs/foundation/5.1.1/css/foundation.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
     <title>Founders &amp; Coders</title>
   </head>
    
   <body>
 
-    <div data-magellan-expedition="fixed">
-      <dl class="sub-nav">
-	<dd data-magellan-arrival="course"><a href="#course">The course</a></dd>
-        <dd data-magellan-arrival="students"><a href="#students">Students</a></dd>
-        <dd data-magellan-arrival="tutor"><a href="#tutor">Tutor</a></dd>
-        <dd data-magellan-arrival="apply"><a href="#apply">Apply</a></dd>
-      </dl>
+    <div class="fixed">
+      <nav class="top-bar" data-topbar>
+	<ul class="title-area">
+          <li class="name">
+	    <h1><a href="#">founders &amp; Coders</a></h1>
+	  </li>
+	  <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li>
+	</ul>
+      </nav>
     </div>
 
-    <div class="row">
+<!--
+    <div class="marketing off-canvas-wrap">
+            <div class="inner-wrap">
+-->	      
+    <div class="row margin-top">
       <div class="small-12 columns">
         <h1>Founders &amp; Coders</h1>
       </div>
     </div>
-    
+
+<!--
     <div class="row">
       <div class="large-12 columns">
 	<div id="slider">
@@ -34,11 +44,28 @@
 	<hr />
       </div>
     </div>
+-->
 
-    <div data-magellan-destination="course" class="row">
-      <br>
-      <br>
-      <a name="course"></a>
+    <p><a name="apply"></a></p>
+    <div class="row">
+      <div class="row">
+	<div class="small-3 columns">&nbsp;</div>
+	<div class="small-6 columns">
+          <ul class="pricing-table">
+	    <li class="title">A full-time coding course in Camden Town</li>
+	    <li class="price">at Collective Academy</li>
+	    <li class="bullet-item">8 weeks</li>
+	    <li class="bullet-item">12 students</li>
+	    <li class="bullet-item">No cost</li>
+	    <li class="bullet-item">Starts March 31st</li>
+	    <li class="cta-button"><a class="button radius" href="http://camdencollective.co.uk/academy/">Apply now</a></li>
+	  </ul>
+	</div>
+	<div class="small-3 columns">&nbsp;</div>
+      </div>
+    </div>
+
+<!--
       <div class="small-2 columns">&nbsp;</div>
       <div class="small-8 columns">
 	<dl>
@@ -109,16 +136,31 @@
 	</dl>
       </div>
       <div class="small-2 columns">&nbsp;</div>
+-->
+
+<hr>
+    <div class="row">
+      <div class="small-2 columns">&nbsp;</div>
+      <div class="small-8 columns">
+
+	<h3 data-magellan-destination="course">Curriculum</h3>
+	<p><a name="course"></a></p>
+	<p>The basics of computer science. An overview of object-oriented, functional and dataflow programming paradigms. Programming in Python as well as JavaScript and Clojure. An introduction to the UNIX command line and source control. The basics of web application programming, including HTTP, routing, request handling, testing, databases, authentication, APIs, caching, MVC and web service architecture. Web development using webapp2 as well as Django, Node.js and Compojure. Web front-end development using HTML, CSS and jQuery.</p>
+
+      </div>
+      <div class="small-2 columns">&nbsp;</div>
     </div>
 
-    <div data-magellan-destination="students" class="row">
-      <br>
-      <br>
-      <a name="students"></a>
+    <div class="row">
+      <div class="small-2 columns">&nbsp;</div>
+      <div class="small-8 columns">
+	<a name="students"></a>
+	<h3 data-magellan-destination="students">Students</h3>
 
-      <div>The beauty of learning computer programming is that it changes the way you see problems. I am now working as a research analyst at a property company, but what I learned at the collective academy was vital to securing the job - Ed Green.</div>
-      <div> without doubt London's most accessible, enjoyable and rewarding way to get a jump start into the vital world of coding - Rich Brown</p>
-
+	<div>The beauty of learning computer programming is that it changes the way you see problems. I am now working as a research analyst at a property company, but what I learned at the collective academy was vital to securing the job - Ed Green.</div>
+	<div> without doubt London's most accessible, enjoyable and rewarding way to get a jump start into the vital world of coding - Rich Brown</div>
+      </div>
+      <div class="small-2 columns">&nbsp;</div>
     </div>
 
     <div data-magellan-destination="tutor" class="row">
@@ -126,7 +168,8 @@
       <br>
       <a name="tutor"></a>
     </div>
-    
+
+<!--    
     <div data-magellan-destination="apply" class="row">
       <a name="apply"></a>    
       <div class="small-12 columns">
@@ -143,6 +186,10 @@
 	</div>
       </div>
     </div>
+-->
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 
     <footer class="row">
       <div class="large-12 columns">
@@ -158,6 +205,10 @@
       </div>
     </footer>
 
+<!--
+</div>
+</div>
+-->
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.1.1/js/foundation.min.js"></script>
     <script src="/javascripts/main.js"></script>
@@ -174,5 +225,6 @@
       } catch(err) {}
     </script>
    
+
   </body>
 </html>
