@@ -19,6 +19,6 @@ h1 {
     height: 100%;
 }
 
-.pricing-table {
-    background: #ccc;
+.top-bar .name h1 a {
+    width: 100%;
 }
