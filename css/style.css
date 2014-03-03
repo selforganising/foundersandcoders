@@ -6,7 +6,19 @@ h1 {
     letter-spacing: 4px;
 }
 
-.margin-top {
-    margin-top: 60px;
+#top::before {
+    position: absolute;
+    content: "";
+    top: 0; left: 0; bottom: 0; right: 0;
+    background: url(/images/cohort1.jpg) no-repeat top center fixed; 
+    opacity:0.3;
 }
 
+#top, #curriculum {
+    padding: 60px 0 60px 0;
+    height: 100%;
+}
+
+.pricing-table {
+    background: #ccc;
+}
