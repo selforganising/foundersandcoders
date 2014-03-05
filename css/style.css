@@ -1,3 +1,7 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
 h1 {
     text-transform: uppercase;
     text-align: center;
@@ -14,8 +18,7 @@ h1 {
     opacity:0.3;
 }
 
-#top, #curriculum {
-    padding-top: 3rem;
+section {
     height: 100%;
 }
 

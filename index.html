@@ -14,8 +14,8 @@
   
   <body>
 
-    <div class="fixed">
-      <section class="top-bar-section">
+
+      <div class="fixed top-bar-section">
 	<nav class="top-bar" data-topbar>
 	  <ul class="title-area">
             <li class="name">
@@ -27,7 +27,14 @@
 	    <li><a href="#" data-reveal-id="video"><strong>Watch the video</strong></a></li>
 	  </ul>
 	</nav>
-      </section>
+      </div>
+
+
+    <div id="video" class="reveal-modal medium" data-reveal>
+      <div class="flex-video">
+	<iframe src="//player.vimeo.com/video/88149344" width="500" height="281" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <a class="close-reveal-modal">&#215;</a>
     </div>
 
     <section id="top">
@@ -35,13 +42,6 @@
 	<div class="small-12 columns">
           <h1>Founders &amp; Coders</h1>
 	</div>
-      </div>
-
-      <div id="video" class="reveal-modal medium" data-reveal>
-	<div class="flex-video">
-	  <iframe src="//player.vimeo.com/video/88149344" width="500" height="281" frameborder="0" allowfullscreen></iframe>
-	</div>
-        <a class="close-reveal-modal">&#215;</a>
       </div>
 
       <div class="row">
@@ -75,7 +75,7 @@
           <ul class="pricing-table">
 	    <li class="title">A quick summary of the material we will be covering</li>
 	    <li class="price">Curriculum</li>
-	    <li class="description">The idea is to take you from no knowledge of programming to the point where you can develop your own startup project or apply for a software internship</li>
+	    <li class="description">The idea is to take you from no knowledge of programming to the point where you can work on your own startup project or apply for a software internship</li>
 	    <li class="bullet-item">The basics of computer science</li>
 	    <li class="bullet-item">An overview of programming paradigms</li>
 	    <li class="bullet-item">Programming in Python and JavaScript</li>
