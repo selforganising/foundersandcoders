@@ -10,16 +10,26 @@ h1 {
     letter-spacing: 4px;
 }
 
-#top::before {
+#top {
+    padding-top: 45px;
+}
+
+#top:before {
     position: absolute;
     content: "";
     top: 0; left: 0; bottom: 0; right: 0;
     background: url(/images/cohort1.jpg) no-repeat top center fixed; 
+//    background-color: #ee0000;
+    background-size: 1000px;
     opacity:0.3;
 }
 
 section {
     height: 100%;
+}
+
+.row {
+//    background-color: #eee;
 }
 
 .top-bar .name h1 a {
