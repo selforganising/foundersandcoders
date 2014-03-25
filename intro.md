@@ -1,8 +1,6 @@
 ---
 layout: class
 title: "Welcome to <em>Founders &amp; Coders</em>"
-linktext:  "intro"
-standfirst: ""
 ---
 
 _March 25, 2014_
