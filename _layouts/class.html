@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    {% include header-tags.html %}
+    <title>Founders &amp; Coders - {{ page.title }}</title>
+ </head>
+  
+  <body>
+
+    {% include class-nav.html %}
+
+    <section>
+
+      <div class="row">
+	<div class="small-1 medium-3 columns">&nbsp;</div>
+	<div class="small-10 medium-6 columns">
+
+	  <h3>{{ page.title }}</h3>
+
+	  <h5>{{ page.standfirst }}</h5>
+
+          {{ content }}
+        
+	  {% if page.author %}
+	  <p>
+	    <em>{{ page.author }}, {{ page.date | date: "%e %B %Y" }}.</em>
+	  </p>
+	  {% endif %}
+
+	</div>
+	<div class="small-1 medium-3 columns">&nbsp;</div>
+      </div>
+    </section>
+
+    {% include footer.html %}
+
+  </body>
+</html>
+
+
