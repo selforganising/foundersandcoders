@@ -7,7 +7,7 @@ title: "Before we start"
 
 Read the *[course guide](guide)*.
 
-Note: If you have a little or no programming experience, then please *attempt all of the material below before the start of the course*.
+Note: If you have little or no programming experience, then please *attempt all of the material below before the start of the course*.
 
 Please go to _Codecademy_ and make a start on:
 
@@ -38,7 +38,7 @@ And follow [@selforganising](https://twitter.com/selforganising).
 
 #### Equipment
 
-If you have your own laptop computer (either a Mac or a PC), please bring it. Otherwise, <a href="mailto:academy@selforganising.org" target="_blank">please let us know in advance</a>, and we will provide you with a computer for the duration of the course. You will also need a pair of earphones.
+If you have your own laptop computer (Mac, PC, Linux or Chromebook), please bring it. Otherwise, <a href="mailto:academy@selforganising.org" target="_blank">please let us know in advance</a>, and we may be able to provide you with a computer for the duration of the course. You will also need a pair of earphones.
 
 #### Questions
 
