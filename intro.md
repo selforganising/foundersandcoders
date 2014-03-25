@@ -1,6 +1,6 @@
 ---
 layout: class
-title: "Welcome to <em>Founders &amp; Coders</em>"
+title: "Welcome to Founders &amp; Coders"
 ---
 
 _March 25, 2014_
