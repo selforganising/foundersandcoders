@@ -21,7 +21,7 @@ You will need to bring your own laptop computer. If you do not have a laptop, we
 You will also need a pair of earphones for listening to lecture material.
 
 **Personal study time**  
-We make a lot of use online study material, you will need to make time each day for self study.
+We make a lot of use of online video material, for which you will need to make time each day for self study.
 
 **Pacing**  
 The pace at which we get through the curriculum will depend on the pace of the whole group. In order to get the most out of the course, it is important that every member of the group has mastered the material before we move on. So, if you find you are getting through lessons faster than others, use some of your time to deepen your knowledge of topics you have already covered by pairing up with somebody who is still working through it for the first time.

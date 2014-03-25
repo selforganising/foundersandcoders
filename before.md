@@ -5,9 +5,9 @@ title: "Before we start"
 
 #### Pre-course assignment
 
-Read the *[course guide](course)*.
+Read the *[course guide](guide)*.
 
-Note: If you have a little or no programming experience, then please *attempt all of the material below before the start of the course* and don't forget to sign up for Gmail, Linkedin, Facebook, Github and Twitter (and follow @selforganising).
+Note: If you have a little or no programming experience, then please *attempt all of the material below before the start of the course*.
 
 Please go to _Codecademy_ and make a start on:
 
