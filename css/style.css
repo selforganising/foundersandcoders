@@ -16,18 +16,16 @@ h1 {
     top: 0; left: 0; bottom: 0; right: 0;
     background: url(/images/cohort1.jpg) no-repeat top center fixed; 
 //    background-color: #ee0000;
-    background-size: 1000px;
+    background-size: 100%;
     opacity:0.3;
 }
 
 section {
     height: 100%;
     padding-top: 60px;
+    border-top: 4px solid #334;
 }
 
-.row {
-//    background-color: #eee;
-}
 
 .top-bar .name h1 a {
     width: 100%;
