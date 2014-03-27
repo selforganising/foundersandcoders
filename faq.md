@@ -10,7 +10,7 @@ It is a collaboration between [Camden Town Unlimited](http://www.camdentownunlim
 This course is for you if you want a career as a software developer. Or you want to be able to use software in your work. Or you want to work on your own software projects.
 
 **How much does it cost?**
-There are no fees. We expect you to use the skills you learn here to make the world a better place.
+There are no fees, but we expect you to use the skills you learn here to make the world a better place.
 
 **I cannot study full-time. Are you offering any other courses?**  
 We are concentrating on the full-time course for now, but if you want to hear about new courses, <a href="mailto:collective-academy+subscribe@googlegroups.com" target="_blank">please join our mailing list</a>. 
