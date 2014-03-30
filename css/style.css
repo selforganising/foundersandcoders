@@ -20,13 +20,34 @@ h1 {
     opacity:0.3;
 }
 
-section {
-    padding-top: 60px;}
-
 #top, #curriculum {
     height: 100%;
     min-height: 36em;
     border-bottom: 4px solid #003;
+    padding-top: 60px;
+}
+
+.slide {
+    position: relative;
+    height: 100%;
+    padding-top: 60px;
+}
+
+.slide h2 { 
+    font-size: 3rem; 
+    padding: 2rem;
+}
+
+.slide p { 
+    font-size: 2.2rem;
+    padding-left: 4rem;
+}
+
+.slide .next {
+    position: absolute;
+    left: 50%;
+    margin-left: -40px;
+    bottom: 40px;
 }
 
 #footer {

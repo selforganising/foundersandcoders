@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include header-tags.html %}
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+
+    <div class="fixed">
+      <nav class="top-bar" data-topbar>  
+	<div class="fixed top-bar-section">
+	  <nav class="top-bar" data-topbar>
+	    <ul class="title-area">
+              <li class="name">
+		<h1><a href="/">founders &amp; Coders</a></h1>
+	      </li>
+	    </ul>
+ 	    <ul class="left">
+	    </ul>
+	  </nav>
+	</div>
+      </nav>
+    </div>
+
+    <section>
+      <div class="row">
+	<div class="small-4 columns">
+	  {% include posts.html %}
+	</div>
+	<div class="small-8 columns">
+	  <h3>{{ page.title }}</h3>
+	  <h5>{{ page.standfirst }}</h5>
+          {{ content }}
+	  <p><em>{{ page.date | date: "%e %B %Y" }}</em></p>
+	</div>
+      </div>
+    </section>
+    {% include footer.html %}
+  </body>
+</html>
+
+

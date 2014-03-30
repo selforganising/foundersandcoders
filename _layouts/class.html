@@ -1,40 +1,23 @@
 <!DOCTYPE html>
 <html>
-
   <head>
     {% include header-tags.html %}
     <title>{{ page.title }}</title>
- </head>
-  
+  </head>
   <body>
-
     {% include class-nav.html %}
-
     <section>
-
       <div class="row">
 	<div class="small-1 medium-2 columns">&nbsp;</div>
 	<div class="small-10 medium-8 columns">
-
 	  <h3>{{ page.title }}</h3>
-
 	  <h5>{{ page.standfirst }}</h5>
-
           {{ content }}
-        
-	  {% if page.author %}
-	  <p>
-	    <em>{{ page.author }}, {{ page.date | date: "%e %B %Y" }}.</em>
-	  </p>
-	  {% endif %}
-
 	</div>
 	<div class="small-1 medium-2 columns">&nbsp;</div>
       </div>
     </section>
-
     {% include footer.html %}
-
   </body>
 </html>
 
