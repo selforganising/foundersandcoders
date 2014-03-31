@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include header-tags.html %}
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {% include class-nav.html %}
+    <section class="post">
+      <div class="row">
+	<div class="small-1 medium-2 columns">&nbsp;</div>
+	<div class="small-10 medium-8 columns">
+	  <h3>{{ page.title }}</h3>
+	  <h5>{{ page.standfirst }}</h5>
+          {{ content }}
+	  {% include questionnaire.html %}
+	</div>
+	<div class="small-1 medium-2 columns">&nbsp;</div>
+      </div>
+    </section>
+    {% include footer.html %}
+  </body>
+</html>
+
+
