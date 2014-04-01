@@ -38,19 +38,18 @@ h1 {
 }
 
 .slide h2 { 
-    font-size: 3rem; 
-    padding: 2rem;
+    font-size: 1.6rem; 
+//    padding: 2rem;
 }
 
 .slide p { 
-    font-size: 2.2rem;
-    padding-left: 4rem;
+    font-size: 1.4rem;
+    padding: 1rem 0;
 }
 
 .slide .next {
     position: absolute;
-    left: 50%;
-    margin-left: -40px;
+    right: 40px;
     bottom: 40px;
 }
 
@@ -63,3 +62,37 @@ h1 {
 .top-bar .name h1 a {
     width: 100%;
 }
+
+pre, code {
+  width: 100%;
+  color: #222;
+  background-color: #ccc;
+
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-size: 1.2rem;
+
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+
+}
+
+pre {
+  width: 100%;
+  padding: 10px;
+  margin: 20px;
+//  box-shadow: 0 0 10px rgba(0,0,0,.1);
+  overflow: auto;
+}
+
+code {
+  padding: 3px;
+  margin: 0 3px;
+//  box-shadow: 0 0 10px rgba(0,0,0,.1);
+}
+
+pre code {
+//  display: block;
+//  box-shadow: none;
+}
+
