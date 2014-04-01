@@ -168,7 +168,7 @@ title: "A simple solution: finding the factorial of a number"
       <pre><code>
     def factorial(n):
         total = 1
-        if total > 1:
+        if n > 1:
             total = n
         return total
 
@@ -206,9 +206,9 @@ Add yet another test using the next most simple argument values that you can thi
       <pre><code>
     def factorial(n):
         total = 1
-        if total > 1:
+        if n > 1:
             total = n
-        elif total > 2:
+        elif n > 2:
             total = n * n - 1
         return total
 
