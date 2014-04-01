@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include header-tags.html %}
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {% include class-nav.html %}
+
+    {{ content }}
+
+    {% include questionnaire.html %}
+
+    {% include footer.html %}
+  </body>
+</html>
