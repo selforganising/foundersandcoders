@@ -7,13 +7,15 @@
   <body>
     {% include class-nav.html %}
 
-    {{ content }}
-
-    <section>
+    <section class="slideshow">
       <div class="row">
 	<div class="small-1 medium-2 columns">&nbsp;</div>
 	<div class="small-10 medium-8 columns">
+
+	  {{ content }}
+
 	  {% include questionnaire.html %}
+
 	</div>
 	<div class="small-1 medium-2 columns">&nbsp;</div>
       </div>

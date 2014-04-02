@@ -31,26 +31,27 @@ h1 {
     padding-top: 60px;
 }
 
-.slide {
+.slideshow {
     position: relative;
-    height: 100%;
-    padding-top: 60px;
+//    height: 100%;
+//    padding-top: 60px;
 }
 
-.slide h2 { 
+.slideshow h2 { 
     font-size: 1.6rem; 
-//    padding: 2rem;
+    padding-top: 3rem;
 }
 
-.slide p { 
+.slideshow p { 
     font-size: 1.4rem;
     padding: 1rem 0;
 }
 
-.slide .next {
-    position: absolute;
-    right: 40px;
-    bottom: 40px;
+.slideshow .next {
+    margin-bottom: 200px;
+    //position: absolute;
+    //right: 40px;
+
 }
 
 #footer {
