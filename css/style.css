@@ -65,31 +65,25 @@ h1 {
 }
 
 pre, code {
-  width: 100%;
   color: #222;
   background-color: #ccc;
-
-  //font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  //font-size: 1.2rem;
-
+  font-weight: normal;
   border-radius: 2px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
+}
 
+pre code {
+  display: block;
 }
 
 pre {
-  //width: 100%;
   padding: 10px;
   margin: 20px;
-//  box-shadow: 0 0 10px rgba(0,0,0,.1);
   overflow: auto;
 }
 
 code {
-  //padding: 3px;
-  //margin: 0 3px;
-  //box-shadow: 0 0 10px rgba(0,0,0,.1);
+  padding: 3px;
+  margin: 0 3px;
 }
 
 pre code {
