@@ -3,15 +3,15 @@ layout: slideshow
 title: "A simple solution: finding the factorial of a number"
 ---
 
-## Whatever it is that you are trying to do, think of it as a function and give it a sensible name {: #1}
+### Whatever it is that you are trying to do, think of it as a function and give it a sensible name {: #1}
 
     factorial
 
-`factorial` is a pretty sensible name for a function that returns the factorial of a number :-)
+`factorial` is a pretty sensible name for a function that returns the factorial of a number.
 
 [Next](#2){: .button .round .next}
 
-## Work out the inputs to the function and give them sensible names. {: #2}
+### Work out the inputs to the function and give them sensible names. {: #2}
 
     n
 
@@ -19,7 +19,7 @@ In general, descriptive names are better, but in the case of an integer, certain
 
 [Next](#3){: .button .round .next}
 
-## Write out the first line of the function definition, including the arguments.{: #3}
+### Write out the first line of the function definition, including the arguments.{: #3}
 
     def factorial(n):
         pass
@@ -34,7 +34,7 @@ There are many ways to do testing in Python. This is a good start.
 
 [Next](#4){: .button .round .next}
 
-## Add a return value for your function using the value that your test is expecting.{: #4}
+### Add a return value for your function using the value that your test is expecting.{: #4}
 
     def factorial(n):
         return 1
@@ -47,7 +47,7 @@ Run your test and check that it passes.
 
 [Next](#5){: .button .round .next}
 
-## Think of a sensible name for your return value, add a variable with that name at the top of your function, assign to it your return value and return the variable instead of the value {: #5}
+### Think of a sensible name for your return value, add a variable with that name at the top of your function, assign to it your return value and return the variable instead of the value {: #5}
 
     def factorial(n):
         total = 1
@@ -59,13 +59,13 @@ Assuming that we know that a factorial produces the product of a number and all 
 
 [Next](#6){: .button .round .next}
 
-## Run your test again and check that it passes.{: #6}
+### Run your test again and check that it passes.{: #6}
 
     True
 
 [Next](#7){: .button .round .next}
 
-## Add another test using the next most simple argument values that you can think of. {: #7}
+### Add another test using the next most simple argument values that you can think of. {: #7}
 
     print factorial(1) == 1
 
@@ -80,18 +80,18 @@ If necessary, extend your function definition, so that both your tests pass.
 
 [Next](#8){: .button .round .next}
 
-##In this case, it is not necessary to add any code. {: #8}
+###In this case, it is not necessary to add any code. {: #8}
 
     True
     True
 
-## Add another test using the next most simple argument values that you can think of.
+### Add another test using the next most simple argument values that you can think of.
 
     print factorial(2) == 2
 
 [Next](#9){: .button .round .next}
 
-## Extend your function definition, so that all your tests pass.{: #9}
+### Extend your function definition, so that all your tests pass.{: #9}
 
     def factorial(n):
         total = 1
@@ -113,7 +113,7 @@ There are other ways to attack this problem, and this is not yet a good general 
 
 [Next](#11){: .button .round .next}
 
-## Extend your function definition, so that all your tests pass.{: #11}
+### Extend your function definition, so that all your tests pass.{: #11}
 
 This is one possible approach:
 
@@ -134,7 +134,7 @@ But, at this point (and quite possibly earlier) anyone who is familiar enough wi
 
 [Next](#12){: .button .round .next}
 
-## Like this:{: #12}
+### Like this:{: #12}
 
     def factorial(n):
         total = 1
