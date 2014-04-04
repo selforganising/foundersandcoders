@@ -9,7 +9,7 @@ The manipulation of lists is at the heart of a lot of programming problems.
 
     def listofsquares(alist):
         squares = []
-        for i in alist
+        for i in alist:
             squares.append(i * i)
         return squares
 
