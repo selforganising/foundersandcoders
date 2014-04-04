@@ -1,0 +1,44 @@
+---
+title: List Comprehensions
+layout: class
+---
+
+The manipulation of lists is at the heart of a lot of programming problems.
+
+### A list of squares
+
+    def listofsquares(alist):
+        squares = []
+        for i in alist:
+	    squares.append(i * i)
+        return squares
+
+
+    
+    >>> listofsquares([1, 2, 3, 4])
+    [1, 4, 9, 16]
+    
+### A list of squares using a list comprehension
+
+List comprehensions introduce a terse style for manipulating lists. 
+
+    def listofsquares(alist):
+        return [ i * i for i in alist ]
+
+
+
+    >>> listofsquares([1, 2, 3, 4])
+    [1, 4, 9, 16]
+
+### A list of even squares
+
+    def listofevensquares(alist):
+        return [ i * i for i in alist if x % 2 == 0]
+
+
+
+    >>> listofevensquares([1, 2, 3, 4])
+    [4, 16]
+    
+If you are interested in learning more about list comprehensions, Udacity's *Design of Computer Program* has [nice introduction](https://www.udacity.com/course/viewer#!/c-cs212/l-48703331/m-48728207).
+
