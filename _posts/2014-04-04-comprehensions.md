@@ -40,5 +40,5 @@ List comprehensions introduce a terse style for manipulating lists.
     >>> listofevensquares([1, 2, 3, 4])
     [4, 16]
     
-If you are interested in learning more about list comprehensions, Udacity's *Design of Computer Program* has [nice introduction](https://www.udacity.com/course/viewer#!/c-cs212/l-48703331/m-48728207).
+If you are interested in learning more about list comprehensions, Udacity's *Design of Computer Programs* has a [nice introduction](https://www.udacity.com/course/viewer#!/c-cs212/l-48703331/m-48728207).
 
