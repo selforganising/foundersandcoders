@@ -9,12 +9,12 @@ The manipulation of lists is at the heart of a lot of programming problems.
 
     def listofsquares(alist):
         squares = []
-        for i in alist:
-	    squares.append(i * i)
+        for i in alist
+            squares.append(i * i)
         return squares
 
+&nbsp;
 
-    
     >>> listofsquares([1, 2, 3, 4])
     [1, 4, 9, 16]
     
@@ -25,18 +25,20 @@ List comprehensions introduce a terse style for manipulating lists.
     def listofsquares(alist):
         return [ i * i for i in alist ]
 
-
-
+&nbsp;
+ 
     >>> listofsquares([1, 2, 3, 4])
     [1, 4, 9, 16]
+
+  
 
 ### A list of even squares
 
     def listofevensquares(alist):
-        return [ i * i for i in alist if x % 2 == 0]
-
-
-
+        return [ i * i for i in alist if i % 2 == 0]
+ 
+&nbsp;
+ 
     >>> listofevensquares([1, 2, 3, 4])
     [4, 16]
     
