@@ -1,6 +1,6 @@
 ---
 title: List Comprehensions
-layout: class
+layout: seminar
 ---
 
 The manipulation of lists is at the heart of a lot of programming problems.
