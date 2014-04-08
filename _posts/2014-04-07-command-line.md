@@ -31,121 +31,121 @@ _"Print Working Directory"_
 
 _"LiSt"_
 
-#####Show me hidden files, as well
+#####Show me hidden files, as well:
 
     ls -a
 
-#####And show me details of each file
+#####And show me details of each file:
 
     ls -l
 
-#####Show me both details and hidden files
+#####Show me both details and hidden files:
 
     ls -al
 
-#####Make a new directory called _things_
+#####Make a new directory called _things_:
 
     mkdir things
 
 _"MaKe DIRectory"_
 
-#####Change to the _things_ directory
+#####Change to the _things_ directory:
 
     cd things
 
 _"Change Directory"_
 
-#####Go up a directory level
+#####Go up a directory level:
 
     cd ..
 
-#####Return to my home directory
+#####Return to my home directory:
 
     cd ~
 
-#####Create a new file with nothing in it
+#####Create a new file with nothing in it:
 
     touch one.txt
 
 `touch` changes the access and modification time of a file (i.e. it _touches_ it), but this also creates a new file if none exists with the name given.
 
-#####Make a copy of it
+#####Make a copy of it:
 
-    cp one.txt two.txt
+    cp one.txt two.txt:
 
 _"CoPy"_
 
-#####Change its name
+#####Change its name:
 
     mv one.txt three.txt
 
 _"MoVe"_
 
-#####And delete  it
+#####And delete  it:
 
     rm three.txt
 
 _"ReMove"_
 
-#####Remove all files and folders without prompting and with no chance of recovery
+#####Remove all files and folders without prompting and with no chance of recovery:
 
     rm -rf .
 
 _"ReMove Recursively and Forcefully"_ everything in your current working directory. Don't do this. Instead, `mkdir ~/tmp` and `mv` anything you no longer want to there.
 
-#####Remove a directory
+#####Remove a directory:
 
     rmdir things
 
 _"ReMove DIRectory"_ (you need to empty it first)
 
-#####Put some text into a file
+#####Put some text into a file:
 
     echo "hello" > greet.txt
 
-#####And display the contents
+#####And display the contents:
 
     cat greet.txt
 
 _"conCATenate and list"_
 
-#####Complete the name of a file without having to type it all
+#####Complete the name of a file without having to type it all:
 
     touch afilewithalongname
     cat af<tab>
 
 (i.e. use the `tab` key)
 
-#####Create a file within a folder within a folder
+#####Create a file within a folder within a folder:
 
     mkdir one
     mkdir one/two
     echo "hello" > one/two/three.txt
 
-#####Read its contents
+#####Read its contents:
 
     cat o<tab><tab><tab>
 
 (i.e. use the `tab` key three times in succession)
 
-#####Cycle through previously-entered commands
+#####Cycle through previously-entered commands:
 
 Use the up and down arrow keys
 
-#####Edit a previously-entered command
+#####Edit a previously-entered command:
 
 Use the left and right arrow keys
 
-#####Run some python code
+#####Run some python code:
 
     echo "print 'hello world'" > hello.py
     python hello.py
 
-#####Enter the Python shell
+#####Enter the Python shell:
 
     python
 
-#####Leave it again
+#####Leave it again:
 
     Ctrl-d
 
@@ -153,7 +153,7 @@ or
 
     exit()
 
-#####Install the beautifulsoup4 Python module
+#####Install the beautifulsoup4 Python module:
 
     pip install beautifulsoup4
 
