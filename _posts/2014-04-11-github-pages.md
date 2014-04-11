@@ -18,3 +18,5 @@ From now on, make sure that every day you make at least one change to your site.
 For inspiration, take a look at [180 websites in 180 days](http://jenniferdewalt.com/), but the important thing is not to do something amazing--just make sure that you do *something*.
 
 You might want to make this way of working a model for how to keep your side-projects going and learning new things after this course is finished. Take John Resig's advice in his [great blog post](http://ejohn.org/blog/write-code-every-day/).
+
+The [Lift phone app](https://lift.do/) is also worth taking a look at.

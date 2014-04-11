@@ -11,3 +11,4 @@ And to a close approximation, all computer courses on Udacity and all courses on
 JavaScript is still more widely used in front-end web development, because it is more-or-less the only language of front-end web development, PHP is more widely used in  back-end web development, but is not used in any other context, and in larger companies there are still more jobs for Java programmers.
 
 But Python is becoming by an increasing margin the most widely-used general-purpose programming language in teaching, in science and engineering, and in startups. It is a great first programming language. And there are some excellent online courses that use it.
+
