@@ -2,13 +2,15 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-h1 {
+h1, h2 {
     text-transform: uppercase;
     text-align: center;
     font-weight: lighter;
-    font-size: 4em;
     letter-spacing: 4px;
 }
+
+h1 { font-size: 4em; }
+h2 { font-size: 3em; }
 
 #top:before {
     position: absolute;
