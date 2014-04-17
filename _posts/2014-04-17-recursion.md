@@ -28,7 +28,7 @@ Here is an example:
 
 So, a recursive function is always defined in terms of itself and some base case where the final value is returned.
 
-Let's do this in Python.
+We can do this in Python.
 
 #### Give the function a sensible name
 
