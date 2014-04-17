@@ -6,8 +6,6 @@ Following on from [finding the factorial of a number](/2014/04/01/factorial.html
 
 #### Find the factorial of a number
 
-n!: the  product of all positive integers less than or equal to n.
-
 The mathematical definition of `n!` can be given as:
 
     n! = n x (n-1)!  where n > 1
