@@ -131,13 +131,6 @@ Which should be clear from the way in which each term of n! is one less than its
                ^            ^                 ^
          function of n   operator       successor to n   
 
-    print factorial(0) == 1
-    print factorial(1) == 1
-
-#### Run the tests
-
-    True
-    True
 
 #### Add more test cases
 
