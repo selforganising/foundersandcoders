@@ -6,7 +6,7 @@ Following on from [finding the factorial of a number](/2014/04/01/factorial.html
 
 #### Find the factorial of a number
 
-    n!: the  product of all positive integers less than or equal to n.
+n!: the  product of all positive integers less than or equal to n.
 
 The mathematical definition of `n!` can be given as:
 
@@ -82,12 +82,17 @@ _For any value of n, multiply n by each predecessor until you reach the base cas
 
 #### Sketch out the framework of a possible solution
 
-    def factorial(n):
-        if n == 0:
-            return 1
-        return <some function of n> <some operator> factorial(<some successor to n>)
+A general recursive solution often requires that:
 
-A general recursive solution often requires that _&lt;some function of n&gt;_ is combined with _&lt;some operator&gt;_ to a recursive call to the original function with _&lt;some successor to n&gt;_. 
+    some function of n
+
+is combined with:
+
+    some operator
+
+to a recursive call to the original function with
+
+    some successor to n
 
 This schema will not work in every case, but is a sensible starting point.
 
@@ -103,17 +108,17 @@ This is where the big intuitive leap is required.
 
 From the form of the solution to n!, probably the first thing to see clearly is that:
 
-    <some operator of n> = *
+    some operator of n = *
 
 The second thing to see is that:
 
-    <some function of n> = n
+    some function of n = n
 
 This comes from the first term in the series.
 
 The final thing to see is that:
 
-    <some successor to n> = n - 1
+    some successor to n = n - 1
 
 Which should be clear from the way in which each term of n! is one less than its predecessor.
 
@@ -122,7 +127,9 @@ Which should be clear from the way in which each term of n! is one less than its
     def factorial(n):
         if n == 0:
             return 1
-        return n * factorial(n - 1)
+        return n            *     factorial(n - 1)
+               ^            ^                 ^
+         function of n   operator       successor to n   
 
     print factorial(0) == 1
     print factorial(1) == 1
