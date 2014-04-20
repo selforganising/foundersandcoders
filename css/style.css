@@ -6,11 +6,10 @@ h1, h2 {
     text-transform: uppercase;
     text-align: center;
     font-weight: lighter;
-    letter-spacing: 4px;
+    letter-spacing: .18em;
 }
 
-h1 { font-size: 4rem; line-height: 2; }
-h2 { font-size: 3em; }
+.top-bar .name h1 a { width: 100% }
 
 #xtop:before {
     position: absolute;
@@ -27,7 +26,7 @@ h2 { font-size: 3em; }
 #top, #message {
     min-height: 36em;
     border-bottom: 4px solid #003;
-    padding-top: 60px;
+//    padding-top: 60px;
 }
 
 #message {
@@ -71,10 +70,6 @@ h2 { font-size: 3em; }
 footer {
 //    padding-top: 20px;
     padding-bottom: 20px;
-}
-
-.top-bar .name h1 a {
-    width: 100%;
 }
 
 pre, code {
