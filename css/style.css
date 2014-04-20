@@ -22,8 +22,9 @@ h2 { font-size: 3em; }
     opacity:0.3;
 }
 
+#top { height: 100%; }
+
 #top, #message {
-    height: 100%;
     min-height: 36em;
     border-bottom: 4px solid #003;
     padding-top: 60px;
@@ -67,10 +68,8 @@ h2 { font-size: 3em; }
 
 }
 
-#footer {
+footer {
     padding-top: 20px;
-//    background-color: #333;
-//    color: #fff;
 }
 
 .top-bar .name h1 a {
