@@ -1,5 +1,5 @@
 ---
-layout: class
+layout: info
 title: "FAQ"
 ---
 
