@@ -4,7 +4,7 @@ title: "FAQ"
 ---
 
 **What is _Founders & Coders_?**  
-It is a collaboration between [Camden Town Unlimited](http://www.camdentownunlimited.com/) and [Self-organising](http://selforganising.org/).
+It is a course offered through [Collective](http://camdencollective.co.uk/) and is a collaboration between [Camden Town Unlimited](http://www.camdentownunlimited.com/) and [Self-organising](http://selforganising.org/).
 
 **Who is this course suitable for?**  
 This course is for you if you want a career as a software developer. Or you want to be able to use software in your work. Or you want to work on your own software projects.
