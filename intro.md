@@ -3,9 +3,6 @@ layout: class
 title: "Welcome to Founders &amp; Coders"
 ---
 
-**Greetings, readers of Hackers News. As requested, here is a link to information about the current course. There are likely to be changes for the next course, but this give you some idea of what this is all about.**
-
-
 _March 25, 2014_
 
 This course is a development of _"Coding the Web"_, a six-week course that ran earlier in the year, which in turn grew out of the [Self-organising](http://selforganising.org/) study groups that ran throughout 2013. Like _Coding the web_ and like the study groups, we are going to be basing this course around online content.
