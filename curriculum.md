@@ -13,7 +13,6 @@ We will also be using a variety of other materials.
 
 * Python
 * JavaScript
-* Clojure
 
 #### By the end of the course, students should be able to:
 
@@ -41,6 +40,5 @@ We will also be introducing some other advanced topics, which may include the fo
 
 * An introduction to Django
 * An introduction to node.js
-* An introduction to functional web programming in Clojure
 * Comparison of different programming paradigms
 
