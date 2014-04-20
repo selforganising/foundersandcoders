@@ -10,7 +10,7 @@ It is a course organised by [Self-organising](http://selforganising.org/) throug
 This course is for you if you have little or no experience of programming and you want to learn to build web applications.
 
 **What will I learn?**  
-The [current course web pages](intro) give an idea of the structure of the course. Coursera's [Startup Engineering course](https://www.coursera.org/course/startup) is also a reasonable reflection of the material we will be covering in future courses.
+The [current course web pages](intro) give an idea of the structure of the course. Coursera's [Startup Engineering course](https://www.coursera.org/course/startup) is also a reasonable reflection of the kind of material we will be covering in future courses.
 
 **How much does it cost?**  
 There are currently no fees.
