@@ -1,145 +1,47 @@
-B<!DOCTYPE html>
-<html>
-
-  <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Founders and Coders" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" media="screen" href="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.min.js">
-    <link rel="stylesheet" type="text/css" media="screen" href="//cdnjs.cloudflare.com/ajax/libs/foundation/5.1.1/css/foundation.min.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css">
-    <title>Founders &amp; Coders</title> 
- </head>
-  
-  <body>
-
-    <div class="fixed">
-      <nav class="top-bar" data-topbar>  
-	<div class="fixed top-bar-section">
-	  <nav class="top-bar" data-topbar>
-	    <ul class="title-area">
-              <li class="name">
-		<h1><a href="#top">founders &amp; Coders</a></h1>
-	      </li>
-	    </ul>
- 	    <ul class="left">
-	      <li><a href="#curriculum">Curriculum</a></li>
-	      <li><a href="#" data-reveal-id="video"><strong>Watch the video</strong></a></li>
-	      <li><a href="#" data-reveal-id="apply"><strong>Apply now</strong></a></li>
-	    </ul>
- 	    <ul class="right">
-	      <li><a href="mailto:contact@foundersandcoders.org" target="_blank">Contact</a></li>
-	    </ul>
-	  </nav>
-	</div>
-      </nav>
-    </div>
-
-    <div id="video" class="reveal-modal medium" data-reveal>
-      <div class="flex-video">
-	<iframe src="//player.vimeo.com/video/88149344" width="500" height="281" frameborder="0" allowfullscreen></iframe>
-      </div>
-      <a class="close-reveal-modal">&#215;</a>
-    </div>
-
-    <div id="apply" class="reveal-modal medium" data-reveal>
-      <div class="flex-video">
-	  <iframe src="https://docs.google.com/forms/d/1cdEKfP1gqfJh_JbE1szqpNDLm3kpRRfyp6n1IV5OKG8/viewform?embedded=true" width="760px" height="600px" frameborder="0" marginheight="0" marginwidth="0">Loading&amp;#8230;</iframe>
-      </div>
-      <a class="close-reveal-modal">&#215;</a>
-    </div>
+---
+layout: front
+title: Founders & Coders
+---
 
     <section id="top">
 
       <div class="row show-for-large-up">
+	<div class="large-12 columns">
+          <h1>{{page.title}}</h1>
+	</div>
+      </div>
+
+      <div class="row text-center">
 	<div class="small-12 columns">
-          <h1>Founders &amp; Coders</h1>
+          <h4>Learn to code. Meet your co-founders. Build a business.</h4>
 	</div>
       </div>
 
-      <div class="row">
-	<div class="small-1 medium-3 columns">
-	  &nbsp;
+      <div class="row text-center space">
+	<div class="small-4 large-2 columns large-offset-3">
+	  <i class="fa fa-calendar fa-5x"></i>
+	  <h4>7 weeks</h4>
 	</div>
-	<div class="small-10 medium-6 columns">
-          <ul class="pricing-table">
-	    <li class="title">A full-time coding course in Camden Town</li>
-	    <li class="price">at Collective Academy</li>
-	    <li class="bullet-item">Learn to code. Meet your co-founders. Build a business.</li>
-	    <li class="bullet-item">7 weeks.</li>
-	    <li class="bullet-item">No fees.</li>
-	    <li class="bullet-item">Next course begins June 16th</li>
-	    <li class="bullet-item"><a href="#" data-reveal-id="video"><strong>Watch the video</strong></a></li>
-<!--
-	    <li class="description">Next course begins June 9th. Applications re-open in April.</li>
--->
-	    <li class="cta-button"><a class="button radius" href="#" data-reveal-id="apply">Apply now</a></li>
-	  </ul>
+	<div class="small-4 large-2 columns">
+	  <i class="fa fa-clock-o fa-5x"></i>
+	  <h4>Full time</h4>
 	</div>
-	<div class="small-1 medium-3 columns">&nbsp;</div>
+	<div class="small-4 large-2 columns end">
+	  <i class="fa fa-smile-o fa-5x"></i>
+	  <h4>No fees</h4>
+	</div>
       </div>
-    </section>
 
-    <section id="curriculum">      
-      <div class="row">
-	<div class="small-1 medium-3 columns">&nbsp;</div>
-	<div class="small-10 medium-6 columns">
-          <ul class="pricing-table">
-	    <li class="title">A quick summary of the material we will be covering</li>
-	    <li class="price">Curriculum</li>
-	    <li class="description">The idea is to take you from no knowledge of programming to the point where you can work on your own startup project.</li>
-	    <li class="bullet-item">Introduction to programming using JavaScript</li>
-	    <li class="bullet-item">The UNIX command line, Git and GitHub</li>
-	    <li class="bullet-item">Web application programming using Node.js</li>
-	    <li class="bullet-item">Web front-end development using HTML, CSS and jQuery</li>
-	  </ul>
-	</div>
-	<div class="small-1 medium-3 columns">&nbsp;</div>
-      </div>
-    </section>
-
-    <!--
-    <section id="students">
-      <div class="row">
-	<div class="small-3 columns">&nbsp;</div>
-	<div class="small-6 columns">
-	  <ul class="small-block-grid-3">
-	    <li>what I learned at the collective academy was vital to securing my job - Ed Green.</li>
-	    <li> without doubt London's most accessible, enjoyable and rewarding way to get a jump start into the vital world of coding - Rich Brown</li>
-	    <li>other</li>
-	  </ul>
-	</div>
-	<div class="small-3 columns">&nbsp;</div>
-      </div>
-    </section>
-    -->
-    
-    <section id="footer">
-      <div class="row">
+      <div class="row text-center">
 	<div class="small-12 columns">
-	  <p class="left">A <a href="http://selforganising.org/">self-organising</a> project</p>
-	  <p class="right">generously supported by <a href="http://camdentownunlimited.com/">Camden Town Unlimited</a></p>
+          <h4>Next course starts June 16th.</h4>
 	</div>
       </div>
+
+      <div class="row text-center space">
+	<div class="small-12 columns">
+	  <div class="cta-button"><a class="button radius" href="#" data-reveal-id="apply">Apply now</a></div>
+	</div>
+      </div>
+
     </section>
-
-    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.1.1/js/foundation.min.js"></script>
-    <script src="/javascripts/main.js"></script>
-
-    <script type="text/javascript">
-      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script>
-
-    <script type="text/javascript">
-      try {
-        var pageTracker = _gat._getTracker("UA-35597887-2");
-        pageTracker._trackPageview();
-      } catch(err) {}
-    </script>
-   
-
-  </body>
-</html>

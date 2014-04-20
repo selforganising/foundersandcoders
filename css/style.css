@@ -9,10 +9,10 @@ h1, h2 {
     letter-spacing: 4px;
 }
 
-h1 { font-size: 4em; }
+h1 { font-size: 4rem; line-height: 2; }
 h2 { font-size: 3em; }
 
-#top:before {
+#xtop:before {
     position: absolute;
     content: "";
     top: 0; left: 0; bottom: 0; right: 0;
@@ -89,8 +89,6 @@ code {
   margin: 0 3px;
 }
 
-pre code {
-//  display: block;
-//  box-shadow: none;
-}
+.space { padding-top: 2rem; padding-bottom: 2rem; }
 
+columns { background: #ccc; }
