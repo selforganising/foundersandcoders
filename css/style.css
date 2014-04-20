@@ -22,11 +22,21 @@ h2 { font-size: 3em; }
     opacity:0.3;
 }
 
-#top, #curriculum {
+#top, #message {
     height: 100%;
     min-height: 36em;
     border-bottom: 4px solid #003;
     padding-top: 60px;
+}
+
+#message {
+    background: LightGrey;
+}
+
+.mugshot {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 20px;
 }
 
 .post {
