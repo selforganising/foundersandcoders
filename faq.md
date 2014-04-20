@@ -28,7 +28,7 @@ There are no academic requirements, but not everyone will be suited to the style
 You will join our alumni network. We encourage you to self-organise into study groups, for which we will provide advice, support, space and mentoring. We will be developing a full programme of continuing education and events, to help you achieve your educational, vocational and work goals, whatever they may be.
 
 **I want to work on my own startup idea after the course. Can you help?**  
-Alumni of the Academy who are serious about starting their own business are encouraged to apply for membership of Collective with all the benefits that provides, including free hot-desking space, participation in the Accelerator programme and access to a wider community of fellow founders and business mentors.
+Alumni of the Academy who are serious about starting their own business are encouraged to apply for [membership of Collective](http://camdencollective.co.uk/hubs/) with all the benefits that provides, including free hot-desking space, participation in the Accelerator programme and access to a wider community of fellow founders and business mentors.
 
 
 
