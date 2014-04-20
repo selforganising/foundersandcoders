@@ -16,7 +16,7 @@ There are no fees, but we expect you to use the skills you learn here to make th
 We are concentrating on the full-time course for now, but if you want to hear about new courses, <a href="mailto:collective-academy+subscribe@googlegroups.com" target="_blank">please join our mailing list</a>. 
 
 **Are there any restrictions on who can apply to study at Collective Academy?**  
-Anyone over the age of 18 can apply, but we are giving priority to people aged 18-24 who live in Camden or who have recently studied at a Camden school or college.
+Anyone over the age of 18 can apply. We particularly welcome applications from people aged 18-24 who live in Camden or who have recently studied at a Camden school or college.
 
 **What are the entry requirements?**  
 There are no academic requirements, but not everyone will be suited to the style of learning our courses require. You need to be self-motivated and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
