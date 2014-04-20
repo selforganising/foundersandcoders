@@ -9,7 +9,7 @@ It is a collaboration between [Camden Town Unlimited](http://www.camdentownunlim
 **Who is this course suitable for?**  
 This course is for you if you want a career as a software developer. Or you want to be able to use software in your work. Or you want to work on your own software projects.
 
-**How much does it cost?**
+**How much does it cost?**  
 There are no fees, but we expect you to use the skills you learn here to make the world a better place.
 
 **I cannot study full-time. Are you offering any other courses?**  
