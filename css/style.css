@@ -2,7 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-h1, h2 {
+h1, xh2 {
     text-transform: uppercase;
     text-align: center;
     font-weight: lighter;
@@ -10,6 +10,10 @@ h1, h2 {
 }
 
 .top-bar .name h1 a { width: 100% }
+
+[data-magellan-expedition] {
+    padding: 0;
+}
 
 #xtop:before {
     position: absolute;
@@ -21,9 +25,16 @@ h1, h2 {
     opacity:0.3;
 }
 
+a {
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+  transition: all 1s ease;
+  transition: all 1s ease;
+}
+
 #top { height: 100%; }
 
-#top, #message {
+#top, #message, #faq {
     min-height: 36em;
     border-bottom: 4px solid #003;
 //    padding-top: 60px;

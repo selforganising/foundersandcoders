@@ -1,8 +1,3 @@
----
-layout: info
-title: "FAQ"
----
-
 **What is _Founders & Coders_?**  
 It is a course organised by [Self-organising](http://selforganising.org/) through [Collective Academy](http://camdencollective.co.uk/academy/).
 
