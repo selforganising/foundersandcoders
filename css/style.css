@@ -9,8 +9,6 @@ h1, xh2 {
     letter-spacing: .18em;
 }
 
-.top-bar .name h1 a { width: 100% }
-
 [data-magellan-expedition] {
     padding: 0;
 }
