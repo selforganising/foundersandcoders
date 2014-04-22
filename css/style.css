@@ -2,7 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-h1, xh2 {
+h1 {
     text-transform: uppercase;
     text-align: center;
     font-weight: lighter;
@@ -23,16 +23,9 @@ h1, xh2 {
     opacity:0.3;
 }
 
-a {
-  -webkit-transition: all 1s ease;
-  transition: all 1s ease;
-  transition: all 1s ease;
-  transition: all 1s ease;
-}
-
 #top { height: 100%; }
 
-#top, #message, #faq, #post {
+#top, #message, #faq, .post {
     min-height: 36em;
     border-bottom: 4px solid #003;
 }
