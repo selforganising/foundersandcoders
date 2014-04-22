@@ -32,10 +32,9 @@ a {
 
 #top { height: 100%; }
 
-#top, #message, #faq {
+#top, #message, #faq, #post {
     min-height: 36em;
     border-bottom: 4px solid #003;
-//    padding-top: 60px;
 }
 
 #message {
@@ -48,36 +47,11 @@ a {
     margin-bottom: 20px;
 }
 
-.post {
+.xpost {
     padding-top: 60px;
-}
-
-.slideshow {
-    position: relative;
-//    height: 100%;
-    padding-top: 60px;
-}
-
-.slideshow h3 { 
-    padding-top: 60px;
-    font-size: 1.6rem; 
-    padding-top: 3rem;
-}
-
-.xslideshow p { 
-    font-size: 1.4rem;
-    padding: 1rem 0;
-}
-
-.slideshow .next {
-    margin-bottom: 400px;
-    //position: absolute;
-    //right: 40px;
-
 }
 
 footer {
-//    padding-top: 20px;
     padding-bottom: 20px;
 }
 
