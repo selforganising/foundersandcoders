@@ -24,7 +24,7 @@ And the base case no longer returns just the result of the base case `0! = 1`, b
 
 This function therefore has two interesting properties. 
 
-First, the recursive call on the last line is the last operation performed inside the function. This is unlike the previous version, where the result of the function call has to be multiplied by n before returning a result. In other words, it is *tail recursive*.
+First, the recursive call on the last line is the last operation performed inside the function. This is unlike the previous version, where the result of the function call has to be multiplied by n before returning a result. In other words, the new function is *tail recursive*.
 
 And second, it uses an *accumulator* that keeps track of the intermediate result of each successive calculation.
 
@@ -34,7 +34,7 @@ With invariant programming, each recursive call uses both intermediate inputs an
 
 The program does not need to keep track of each recursive call and do a final calculation (in this case, multiplication by n) before returning a result.
 
-Tail recursive calls do not require the programme to keep a call stack. The compiler does not need to do what is called *tail call optimisation*. Languages like Python, Java and almost all widely-used languages cannot do tail call optimisation and using recursive functions that are not tail recursive will lead to stack overflows.
+Tail recursive calls do not require a call stack. The compiler does not need to do what is called *tail call optimisation*. Languages like Python, Java and almost all widely-used languages cannot do tail call optimisation and using recursive functions that are not tail recursive will lead to stack overflows.
 
 Here is what the call stack for the original definition looks like for factorial(5):
 
