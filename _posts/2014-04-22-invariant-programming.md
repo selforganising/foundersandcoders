@@ -13,10 +13,10 @@ Although the recursive factorial function we came up with last time is nice, it 
 
 There is a different solution that keeps track of the accumulated calculation and adds this accumulated total as an argument to the function, like this:
 
-    def factorial(n, acc):
+    def factorial(n, acc=1):
         if n == 0:
 	    return acc
-	return factorial( <some new value of n>, <some new value of acc>  )
+	return factorial(n - 1, n * acc)
 
 Looking at the last line of this function, it is just a recursive call to the function with new argument values. Unlike the earlier version, no other calculations are done. 
 
@@ -35,13 +35,6 @@ With *invariant programming*, each recursive call uses both intermediate inputs 
 The program does not need to keep track of each recursive call and do a final calculation (multiplication by n) before returning a result.
 
 Tail recursive calls do not require the programme to keep a call stack. The compiler does not need to do what is called *tail call optimisation*. Languages like Python, Java and almost all widely-used languages cannot do tail call optimisation and using recursive functions that are not tail recursive will lead to stack overflows.
-
-Here is the complete invariant recursive definition of factorial:
-
-    def factorial(n, acc=1):
-        if n == 0:
-	    return acc
-	return factorial(n - 1, n * acc)
 
 Here is what the call stack for the original definition looks like for factorial(5):
 
