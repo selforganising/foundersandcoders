@@ -24,15 +24,15 @@ And the base case no longer returns just the result of the base case `0! = 1`, b
 
 This function therefore has two interesting properties. 
 
-First, the recursive call on the last line is last operation in the function preformed. This is unlike the previous version, where the result of the function call has to be multiplied by n before returning a result. In other words, it is *tail recursive*.
+First, the recursive call on the last line is the last operation performed inside the function. This is unlike the previous version, where the result of the function call has to be multiplied by n before returning a result. In other words, it is *tail recursive*.
 
 And second, it uses an *accumulator* that keeps track of the intermediate result of each successive calculation.
 
-These two features together--tail recursion with an accumulated result are an exampe of *invariant programming*.
+These two features together--tail recursion with an accumulated result--*are an exampe of *invariant programming*.
 
-With *invariant programming*, each recursive call uses both intermediate inputs and intermediate outputs, as the inputs are call-by-call turned into outputs.
+With invariant programming, each recursive call uses both intermediate inputs and intermediate outputs, as the inputs are call-by-call turned into outputs.
 
-The program does not need to keep track of each recursive call and do a final calculation (multiplication by n) before returning a result.
+The program does not need to keep track of each recursive call and do a final calculation (in this case, multiplication by n) before returning a result.
 
 Tail recursive calls do not require the programme to keep a call stack. The compiler does not need to do what is called *tail call optimisation*. Languages like Python, Java and almost all widely-used languages cannot do tail call optimisation and using recursive functions that are not tail recursive will lead to stack overflows.
 
