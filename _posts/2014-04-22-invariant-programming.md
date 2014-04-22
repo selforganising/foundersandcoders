@@ -7,16 +7,16 @@ After looking at [*Decomposing a problem using recursion*](/2014/04/17/recursion
 Although the recursive factorial function we came up with last time is nice, it is still not the best possible solution to this simple problem. Here it is again:
 
     def factorial(n):
-        if n == 0:
-	    return 1
-	return n * factorial(n - 1)
+        if n == 0: 
+            return 1
+        return n * factorial(n - 1)
 
 There is a different solution that keeps track of the accumulated calculation and adds this accumulated total as an argument to the function, like this:
 
     def factorial(n, acc=1):
         if n == 0:
-	    return acc
-	return factorial(n - 1, n * acc)
+            return acc
+        return factorial(n - 1, n * acc)
 
 Looking at the last line of this function, it is just a recursive call to the function with new argument values. Unlike the earlier version, no other calculations are done. 
 
