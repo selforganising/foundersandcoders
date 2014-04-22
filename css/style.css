@@ -37,6 +37,10 @@ a {
     border-bottom: 4px solid #003;
 }
 
+.post {
+    padding-top: 60px;
+}
+
 #message {
     background: LightGrey;
 }
@@ -45,10 +49,6 @@ a {
     height: 140px;
     width: 140px;
     margin-bottom: 20px;
-}
-
-.xpost {
-    padding-top: 60px;
 }
 
 footer {
