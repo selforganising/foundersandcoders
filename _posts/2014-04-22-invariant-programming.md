@@ -57,5 +57,6 @@ And here is the invariant stack:
 
 There is no stack explosion in the invariant version.
 
-Invariant programming is the way to go. Try to use it if you can.
+For a clear exposition of invariant programming, see Peter Van Roy's excellent [Paradigms of Computer Programming](https://www.edx.org/course/louvainx/louvainx-louv1-01x-paradigms-computer-1203).
 
+Invariant programming is the way to go. Try to use it if you can.
