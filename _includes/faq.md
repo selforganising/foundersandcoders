@@ -5,7 +5,7 @@ It is a course at [Collective Academy](http://camdencollective.co.uk/academy/), 
 It is for people with little or no experience of programming who want to learn to build web applications.
 
 **What will I learn?**  
-The [current course web pages](intro) give an idea of the structure of the course. Coursera's [Startup Engineering course](https://www.coursera.org/course/startup) also gives a reasonable reflection of the kind of material we will be covering in future courses.
+The [class pages](intro) for the current course give an idea of the structure of the course, although some of the content will be changing. Coursera's [Startup Engineering](https://www.coursera.org/course/startup) covers some of the same ground.
 
 **How much does it cost?**  
 There are currently no fees.
@@ -20,7 +20,7 @@ Anyone over the age of 18 can apply. We particularly welcome applications from p
 There are no academic requirements, but not everyone will be suited to the style of learning this course requires. You need to be self-motivated and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
 
 **What happens after the course ends?**  
-You will join our alumni network. We encourage you to self-organise into study groups, for which we will provide advice, support, space and mentoring. We will be developing a full programme of continuing education and events, to help you achieve your educational, vocational and work goals, whatever they may be.
+You will join our alumni network, for whom we are developing a programme of continuing education and events.
 
 **I want to work on my own startup idea after the course. Can you help?**  
 Alumni of the Academy who are serious about starting their own business are encouraged to apply for membership of [Collective](http://camdencollective.co.uk/hubs/) with all the benefits that provides, including free hot-desking space, participation in the Accelerator programme and access to a wider community of fellow founders and business mentors.
