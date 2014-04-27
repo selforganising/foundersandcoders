@@ -23,10 +23,13 @@ h1 {
     opacity:0.3;
 }
 
-#top { height: 100%; }
+#top { 
+    padding-top: 4%;
+    height: 94%; 
+    min-height: 34em;
+}
 
 #top, #message, #faq, .post {
-    min-height: 36em;
     border-bottom: 4px solid #003;
 }
 
