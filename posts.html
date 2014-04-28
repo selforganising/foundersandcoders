@@ -3,7 +3,8 @@ layout: class
 title: Seminar notes
 ---
 {% for post in site.posts %}
+    <p>
     {{ post.date | date: "%e %B %Y" }}  
     <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
-    <br>
+    </p>
 {% endfor %}
