@@ -2,9 +2,10 @@
 layout: class
 title: Seminar notes
 ---
+<div class="space">
 {% for post in site.posts %}
-    <p>
     {{ post.date | date: "%e %B %Y" }}  
     <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
-    </p>
+    </br>
 {% endfor %}
+</div>
