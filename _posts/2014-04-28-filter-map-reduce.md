@@ -5,11 +5,11 @@ title: Filter, map and reduce
 
 We now have [a couple of levels active on Memrise](http://www.memrise.com/course/275461/python-programming-language/).
 
-The Levels list includes three very powerful and useful functions that we have not yet covered: `filter`, `map` and `reduce`.
+The Lists level includes three very powerful and useful functions that we have not yet covered: `filter`, `map` and `reduce`.
 
 ####filter
 
-    def f(x): return x % 2 != 0  # odds
+    def f(x): return x % 2 != 0  # return True if odd
 
     filter(f, [1,2,3])
     >>> [1, 3]
@@ -21,7 +21,7 @@ or
 
 ####map
 
-    def f(x): return x*x*x  # cube
+    def f(x): return x*x*x       # return the cube
 
     map(cube, [1,2,3])
     >>> [1, 8, 27]
@@ -32,7 +32,7 @@ or
 
 ###reduce
 
-    def f(x,y): return x+y  # add
+    def f(x,y): return x+y       # add two numbers together
 
     reduce(add, [1,2,3])
     >>> 6
