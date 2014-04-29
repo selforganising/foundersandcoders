@@ -23,7 +23,7 @@ or
 
     def f(x): return x*x*x       # return the cube
 
-    map(cube, [1,2,3])
+    map(f, [1,2,3])
     >>> [1, 8, 27]
 
 or
@@ -34,7 +34,7 @@ or
 
     def f(x,y): return x+y       # add two numbers together
 
-    reduce(add, [1,2,3])
+    reduce(f, [1,2,3])
     >>> 6
 
 or
