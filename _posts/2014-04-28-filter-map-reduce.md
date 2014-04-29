@@ -12,6 +12,7 @@ The Lists level includes three very powerful and useful functions that we have n
     def f(x): return x % 2 != 0  # return True if odd
 
     filter(f, [1,2,3])
+
     >>> [1, 3]
 
 or
@@ -24,6 +25,7 @@ or
     def f(x): return x*x*x       # return the cube
 
     map(f, [1,2,3])
+
     >>> [1, 8, 27]
 
 or
@@ -35,6 +37,7 @@ or
     def f(x,y): return x+y       # add two numbers together
 
     reduce(f, [1,2,3])
+
     >>> 6
 
 or
