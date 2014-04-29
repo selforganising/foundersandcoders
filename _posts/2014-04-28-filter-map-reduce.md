@@ -7,7 +7,7 @@ We now have [a couple of levels active on Memrise](http://www.memrise.com/course
 
 The Lists level includes three very powerful and useful functions that we have not yet covered: `filter`, `map` and `reduce`.
 
-####filter
+###filter
 
     def f(x): return x % 2 != 0  # return True if odd
 
@@ -20,7 +20,7 @@ or
     filter(lambda x: x % 2 != 0, [1,2,3])
 
 
-####map
+###map
 
     def f(x): return x*x*x       # return the cube
 
