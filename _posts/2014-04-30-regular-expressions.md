@@ -4,7 +4,7 @@ title: Regular expressions and webapp2 routes
 ---
 A *webapp2.WSGIApplication* object that invokes the *MainPage* handler when any request is made might look like this:
 
-    app = webapp2.WSGIApplication([('*', MainPage)])
+    app = webapp2.WSGIApplication([('.*', MainPage)])
 
 One that runs when a path consists of nothing but digits might look like this:
 
@@ -18,7 +18,7 @@ In each of these examples, a single route is expressed as tuple where the first 
 
 Here they are again:
 
-    *            Any string
+    .*           Any string
     [0-9]+       One or more occurences of the digits 0 to 9
     ([0-9]+)     ...and capture those digits for later use
 
@@ -28,9 +28,11 @@ Here are some more:
     .?            0 or 1 occurence of any character
     a?            0 or 1 occurence of the character 'a'
     [a-z]         Any lowercase character
+    [^a-z]        Any character that is not lowercase
     [a-z]+        One or more occurrences of any lowercase character
     [a-zA-Z0-9]   Any alphanumeric character
     \w            The same as [a-zA-Z0-9_]
+    \s            Any whitespace character (a space, a tab or a newline)
     \d            The same as [0-9]
     \d+           One or more digits       
     \d{4}         Exactly four digits
