@@ -26,7 +26,7 @@ Here are some more:
 
     .             Any character
     .?            0 or 1 occurence of any character
-    .?            0 or 1 occurence of the character 'a'
+    a?            0 or 1 occurence of the character 'a'
     [a-z]         Any lowercase character
     [a-z]+        One or more occurrences of any lowercase character
     [a-zA-Z0-9]   Any alphanumeric character
@@ -38,7 +38,7 @@ Here are some more:
 
 If you use more than one set of parentheses in a route then the captured expressions are passed in order as arguments to the handler.
 
-    app = webapp2.WSGIApplication([('/posts/(\d{4})/\d{2}/\d{2}', PostPage)])
+    app = webapp2.WSGIApplication([( '/posts/(\d{4})/(\d{2})/(\d{2})' , PostPage )])
 
 Which matches a path like:
 
