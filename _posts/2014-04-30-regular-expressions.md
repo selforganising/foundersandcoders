@@ -36,6 +36,7 @@ Here are some more:
     \d            The same as [0-9]
     \d+           One or more digits       
     \d{4}         Exactly four digits
+    [\w-]         Any alphanumeric character or an underscore or a hyphen
     (   )         Capture whatever is in parentheses for later use
 
 If you use more than one set of parentheses in a route then the captured expressions are passed in order as arguments to the handler.
