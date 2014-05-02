@@ -16,10 +16,11 @@ The `posts=oposts` argument is of this form because it is being passed into the 
 The *blog_front* template might look like this:
 
     { % extends "base.html" %}
-    { % block body %}
+    {% block title %}Blog posts{% endblock %}
+    { % block content %}
       <ul>
       { % for post in posts %}
-        <li><a href="/posts/\{\{ post.id \}\}">\{\{ post.title \}\}</a></li>
+        <li><a href="/posts/{ { post.id }}">{ { post.title }}</a></li>
       { % endfor %}
       </ul>
     { % endblock %}
@@ -29,13 +30,15 @@ And a bare-bones *base* template might look like this:
     <!DOCTYPE html>
     <html>
       <head>
-        <title>{ % block title %}{ % endblock %}</title>
+        <title>{ % block title %}The site{ % endblock %}</title>
       </head>
       <body>
         { % block content %}
         { % endblock %}
       </body>
     </html>
+
+The `{\% block %}` tags indicate a block of text that may be over-ridden by a template that extends the base template and extends or replaces the block.
 
 The *blog_front* template might also have something that looks like this:
 
@@ -59,4 +62,4 @@ You could also do something like:
 
 Which will format a date nicely.
 
-There is more (much more) to [Jinja](http://jinja.pocoo.org/), but this should be enough to get you going.
+There is more (much more) to [Jinja](http://jinja.pocoo.org/) and [Jinja templating](http://jinja.pocoo.org/docs/templates/), but this should be enough to get you going.
