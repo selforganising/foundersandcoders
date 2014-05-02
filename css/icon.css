@@ -7,8 +7,9 @@ body {
 }
 
 .box {
-    position: absolute;
-    margin: 0.1em;
+    position: relative;
+    float: left;
+    margin: 1em;
     padding: 0.1em;
     width: 7em;
     height: 7em;
@@ -16,7 +17,7 @@ body {
 //    border-radius: 1em;
 }
 
-.founders, .coders, .one, .two {
+.founders, .coders, .laptop, .one, .two, .three, .four, .five {
     position: absolute;
 }
 .founders {
@@ -27,11 +28,29 @@ body {
     top: 5.8em;
     left: 0.4em;
 }
-.one {
+.laptop {
     top: 0.23em;
     left: 0.18em;
 }
+.one {
+    top: 1.15em;
+    left: 1.3em;
+}
 .two {
+    top: 1.15em;
+    left: 1.6em;
+}
+.three {
+    top: 1.7em;
+    left: 2.05em;
+    font-size: 1.5em;
+}
+.four {
+    top: 1.35em;
+    left: 1.5em;
+    font-size: 1.8em;
+}
+.five {
     top: 1.15em;
     left: 1.3em;
 }
