@@ -16,7 +16,7 @@ The `posts=oposts` argument is of this form because it is being passed into the 
 The *blog_front* template might look like this:
 
     { % extends "base.html" %}
-    {% block title %}Blog posts{% endblock %}
+    { % block title %}Blog posts{ % endblock %}
     { % block content %}
       <ul>
       { % for post in posts %}
