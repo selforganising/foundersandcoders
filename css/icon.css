@@ -17,7 +17,7 @@ body {
 //    border-radius: 1em;
 }
 
-.founders, .coders, .laptop, .one, .two, .three, .four, .five {
+.founders, .coders, .laptop, .fc, .one, .two, .three, .four, .five {
     position: absolute;
 }
 .founders {
@@ -53,4 +53,9 @@ body {
 .five {
     top: 1.15em;
     left: 1.3em;
+}
+.fc {
+    top: 1.35em;
+    left: 1.5em;
+    font-size: 1.8em;
 }
