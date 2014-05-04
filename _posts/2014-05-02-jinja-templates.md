@@ -38,7 +38,7 @@ And a bare-bones *base* template might look like this:
       </body>
     </html>
 
-The `{ % block %}` tags indicate a block of text that may be over-ridden by a template that extends the base template and extends or replaces the block.
+The `{ % block %}` tags indicate a block of text that may be over-written by a template that extends the base template and extends or replaces the block.
 
 The *blog_front* template might also have something that looks like this:
 

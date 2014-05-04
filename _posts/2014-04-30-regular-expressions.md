@@ -27,15 +27,16 @@ Here are some more:
     .             Any character
     .?            0 or 1 occurence of any character
     a?            0 or 1 occurence of the character 'a'
-    [a-z]         Any lowercase character
-    [^a-z]        Any character that is not lowercase
+    [a-z]         Any lowercase letter
+    [^a-z]        Any character that is not a lowercase letter
     [a-z]+        One or more occurrences of any lowercase character
     [a-zA-Z0-9]   Any alphanumeric character
-    \w            The same as [a-zA-Z0-9_]
+    \w            The same as [a-zA-Z0-9_], i.e. all alphanumeric characters and the underscore
     \s            Any whitespace character (a space, a tab or a newline)
-    \d            The same as [0-9]
+    \d            Any digit, the same as [0-9]
     \d+           One or more digits       
     \d{4}         Exactly four digits
+    \w{3,20}      Between 3 and 20 alphanumeric characters and underscores
     [\w-]         Any alphanumeric character or an underscore or a hyphen
     (   )         Capture whatever is in parentheses for later use
 

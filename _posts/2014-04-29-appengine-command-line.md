@@ -18,7 +18,7 @@ This will not help with App Engine applications, but is useful for viewing stati
 
     git clone https://github.com/GoogleCloudPlatform/appengine-helloworld-python.git
 
-In this case, it is the the App Engine Hello World app in Python.
+In this case, it is the App Engine Hello World app in Python.
 
 ####Run an App Engine application on this server
 
@@ -44,7 +44,7 @@ In this case, it is the answer to CS253 Homework 2. The `-O` option copies the c
 
     tar -xvf hw2.tgz
 
-`-x` extract, `v` verbose, `f` extract to a file.
+`x` extract, `v` verbose, `f` extract to a file.
 
 ####A quick way to write debugging information to the command line
 
