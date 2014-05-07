@@ -46,7 +46,7 @@ Download them and look at the course code.
 
 Use Chrome's Developer tools ( _"Inspect element"_ in the context menu) to investigate the relationship between a document's HTML and the CSS.
 
-Pay particular attention to the headers and to the `row` and `columns` _divs_ in Foundation and the `row` and `col-md-4` _divs_ in Bootstrap.
+Pay particular attention to the headers and to the `row` and `columns` _divs_ in Foundation and the `row` and `col-*-*` _divs_ in Bootstrap.
 
 In _foundation.html_, what is the significance of `foundation.min.css`, `modernizr.min.css`, `jquery.min.js` and `foundation.min.js`?
 
