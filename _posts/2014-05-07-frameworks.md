@@ -48,7 +48,7 @@ Use Chrome's Developer tools ( _"Inspect element"_ in the context menu) to inves
 
 Pay particular attention to the headers and to the `row` and `columns` _divs_ in Foundation and the `row` and `col-*-*` _divs_ in Bootstrap.
 
-In _foundation.html_, what is the significance of `foundation.min.css`, `modernizr.min.css`, `jquery.min.js` and `foundation.min.js`?
+In _foundation.html_, what is the significance of `foundation.min.css`, `modernizr.min.js`, `jquery.min.js` and `foundation.min.js`?
 
 In _bootstrap.html_, what is the significance of `bootstrap.min.css`, `bootstrap-theme.min.css`, `jquery-1.10.2.min.js` and `bootstrap.min.js`.
 
