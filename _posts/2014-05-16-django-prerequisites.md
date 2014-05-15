@@ -27,7 +27,7 @@ virtualenvwrapper is just something someone has built around virtualenv that pro
     
 Now we have to write lines 3 and 5 in your terminal’s start up files so we don’t have to write all these commands every time we want to use virtualenvwrapper (assuming that you are using the nano test editor):
     	
-    nano ~/.bash_profile  # or .profile on OS X
+    nano ~/.bash_profile  
 
 Copy and paste lines 3 & 5 
 Ctrl-x to exit (you will be prompted to save)
