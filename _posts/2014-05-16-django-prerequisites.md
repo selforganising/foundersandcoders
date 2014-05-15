@@ -22,7 +22,8 @@ virtualenvwrapper is just something someone has built around virtualenv that pro
     pip install virtualenv
     pip install virtualenvwrapper
     export WORKON_HOME=~/Envs
-    mkdir -p $WORKON_HOME$ source /usr/local/bin/virtualenvwrapper.sh
+    mkdir -p $WORKON_HOME$ 
+    source /usr/local/bin/virtualenvwrapper.sh
     mkvirtualenv env1
     
 Now we have to write lines 3 and 5 in your terminal’s start up files so we don’t have to write all these commands every time we want to use virtualenvwrapper (assuming that you are using the nano test editor):
