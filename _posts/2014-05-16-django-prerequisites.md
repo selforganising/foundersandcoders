@@ -10,9 +10,7 @@ pip is the python installer package and allows you to install and manage python 
 Once downloaded the three most useful commands are:
 
     pip install <package> 
-
     pip install -u <package>  # upgrades any existing packages 	
-
     pip freeze                # list all packages currently available on your computer
 
 ####Install virtualenvwrapper & virtualenvwrapper
