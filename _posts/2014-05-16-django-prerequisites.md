@@ -25,7 +25,13 @@ virtualenvwrapper is just something someone has built around virtualenv that pro
     mkdir -p $WORKON_HOME$ 
     source /usr/local/bin/virtualenvwrapper.sh
     mkvirtualenv env1
-    
+
+Although do make sure that *pip* is installing in */usr/local/bin*. On some systems it will be different. To check, try:
+
+    which virtualenvwrapper
+
+and adjust the path to virtualenvwrapper above, if necessary.
+
 Now we have to write lines 3 and 5 in your terminal’s start up files so we don’t have to write all these commands every time we want to use virtualenvwrapper (assuming that you are using the nano test editor):
     	
     nano ~/.bash_profile  
