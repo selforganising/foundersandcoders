@@ -13,7 +13,7 @@ Once downloaded the three most useful commands are:
     pip install -u <package>  # upgrades any existing packages 	
     pip freeze                # list all packages currently available on your computer
 
-####Install virtualenvwrapper & virtualenvwrapper
+####Install virtualenv & virtualenvwrapper
     
 virtualenv is a tool that allows you to create and manage different environments for different projects. It basically means that if you need to install lots of different packages for different projects, you can make separate directories in which to install them and work from. This prevents you developing huge swathes of installed packages in your global environment and not being able to remember which ones are needed for each project.
     
@@ -39,7 +39,7 @@ Now we have to write lines 3 and 5 in your terminal’s start up files so we don
 Copy and paste lines 3 & 5 
 Ctrl-x to exit (you will be prompted to save)
 
-Now lets create a directory called ‘envs’ in which to keep our virtual environments and then create our first virtual environment.
+Now let's create a directory called ‘envs’ in which to keep our virtual environments and then create our first virtual environment.
 
     mkdir ~/envs
     ls envs	  
@@ -49,7 +49,7 @@ You should notice now that at the beginning of each line in your terminal there 
 
     (django-blog)$
 
-This means you are now in your virtual environment. Lets see what’s installed:
+This means you are now in your virtual environment. Let's see what’s installed:
 
     pip freeze
 
