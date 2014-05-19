@@ -26,7 +26,7 @@ But what if the value we are taking is not an integer but a function:
 
 In this case, we are taking some function *f* and printing out some logging information before returning the function.
 
-None of the work is actually done until *f* is actually called. When it is, the arguments used are passed to the *with_log* function defined in *logger*. This prints out some logging information before returning the original function.
+None of the work is done until *f* is actually called. When it is, the arguments used are passed to the *with_log* function defined in *logger*. This prints out some logging information before returning the original function.
 
 Using the decorator syntax, instead of writing:
 
