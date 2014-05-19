@@ -1,15 +1,15 @@
 ---
-layout: info.html
+layout: class
 title: Welcome to Cohort II of Founders & Coders
 ---
 
-May ??, 2014
+May 19, 2014
 
 This is now the third time we have run a coding course at Collective, but this one is different.
 
 Firstly, the quality of applications has been uniformaly high and we have had to turn away some very good applicants. If you are on this course, it is because we think you are capable of getting a lot from it and also giving a lot back in return. 
 
-Secondly, for the first two courses we had the training wheels on and we relied heavily on [CS101](https://www.udacity.com/course/cs101) and [CS253](https://www.udacity.com/course/cs253) for our syllabus. These are great courses--and we recommend them--but this is a course primarily about web development and for that we need to learn JavaScript.
+Secondly, for the first two courses we relied heavily on [CS101](https://www.udacity.com/course/cs101) and [CS253](https://www.udacity.com/course/cs253) for our syllabus. These are great courses--and we recommend them--but the training wheels are now off. This is a course primarily about web development and for that we need to learn JavaScript.
 
 Thirdly, midway through the second course we started to experiment with working in groups and we liked the results. So, this time right from the start we are going to organise ourselves into groups to work on open-ended projects. If you want to get an idea of how that might work, you might want to take a look at the work of Richard Felder.
 
