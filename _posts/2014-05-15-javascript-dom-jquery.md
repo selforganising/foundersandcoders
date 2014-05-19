@@ -5,11 +5,11 @@ title: JavaScript, jQuery, and the DOM
 
 Task: add a jQuery handler to your blog.
 
-#####Python vs JavaScript
+####Python vs JavaScript
 
 A nice essay on [the differences between JavaScript and Python](https://blog.glyphobet.net/essay/2557).
 
-#####Why JavaScript?
+####Why JavaScript?
 
 JavaScript was developed for the release of Netscape Navigator 2.0 in 1995 and was added to Microsoft Internet Explorer 3.0 the following year. Notoriously, Brendan Eich [created it in 10 days](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript). Despite being full of bad design decisions and having a syntax that superficially looks like Java, it is has some very powerful programming features--not shared by many mainstream languages--borrowed from languages like Lisp and Smalltalk. 
 It was originally pitched as a nice way to do form validation and was quickly adopted for implementing dynamic page elements, like dropdown menus (in the days when CSS did not have the capacity for this sort of thing). It was several years before the JavaScript was widely recognised, not as a toy scripting language for pepping up websites, but as a serious programming language.
@@ -20,7 +20,7 @@ Many languages can be compiled to JavaScript, so it is possible to write web app
 
 JavaScript is also used as a server language. Node.js was released in 2009 and has started to become widely adopted for building applications that manage data in real time, such as for gaming, online chat and remote monitoring.
 
-#####What is jQuery?
+####What is jQuery?
 
 jQuery is a library for manipulating the DOM (Document Object Model). The DOM is a convention for describing and manipulating the elements of an HTML document, which treats the document as a heirarchical tree with HTML tags as nodes in that tree.
 
@@ -28,7 +28,7 @@ There is a good summary of [how jQuery works](http://learn.jquery.com/about-jque
 
 There is also a good [introduction to the DOM](http://www.w3.org/TR/DOM-Level-2-Core/introduction.html) at W3C.
 
-#####How to use jQuery
+####How to use jQuery
 
 As with using a frontend framework library like Twitter Bootstrap, link to a version of jQuery delivered from a CDN (such a [cdnjs](http://cdnjs.com/libraries/jquery/)) and create a separate link to a local _application_ file. In order to reduce load times, link to both files at the bottome of your document:
 
@@ -45,7 +45,7 @@ The application.js file should look something like this:
 
     });
 
-#####The task
+####The task
 
 * Add the jQuery library to your blog.
 * Create an _application.js_ file and link to it from the front page of your blog.
