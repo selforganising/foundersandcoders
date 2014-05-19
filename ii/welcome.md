@@ -19,7 +19,7 @@ I am inviting you to Collective before we start, primarily because I want to und
 
 ####The groups
 
-There will be sixteen of you starting together on June 16th. I am going to assign you to one of four groups, with which you are going to stay for the length of the course. 
+There will be sixteen of you starting together on June 16th. I am going to assign you to one of four groups, with which you are going to stay throughout the course. 
 
 To help with the selection, I would like you to spend a couple of minutes to complete the [Index of Learning Styles Questionnaire](http://www.engr.ncsu.edu/learningstyles/ilsweb.html) and send the results to me at [academy@selforganising.org](mailto:academy@selforganising.org) before we meet.
 
