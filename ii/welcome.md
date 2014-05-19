@@ -15,7 +15,7 @@ Thirdly, midway through the second course we started to experiment with working 
 
 ####Meeting with you before we start
 
-I am inviting you to Collective before we start, primarily because I want to understand your learning objectives, I want to set expectations, and I want to meet you before I assign you to a learning group.
+I am inviting you to Collective before we start, primarily because I want to understand your learning objectives, I want to set expectations, and I want to meet you before I assign you to a group.
 
 ####The groups
 
