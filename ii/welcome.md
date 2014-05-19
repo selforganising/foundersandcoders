@@ -11,7 +11,7 @@ Firstly, the quality of applications has been uniformly high and we have had to 
 
 Secondly, for the first two courses we relied heavily on [CS101](https://www.udacity.com/course/cs101) and [CS253](https://www.udacity.com/course/cs253) for our syllabus. These are great courses--and we recommend them--but the training wheels are now off. This is a course primarily about web development and for that we need to learn JavaScript.
 
-Thirdly, midway through the second course we started to experiment with working in groups and we liked the results. So, this time right from the start we are going to organise ourselves into groups to work on open-ended projects. If you want to get an idea of how that might work, you might want to take a look at the work of Richard Felder.
+Thirdly, midway through the second course we started to experiment with working in groups and we liked the results. So, this time right from the start we are going to organise ourselves into groups to work on open-ended projects together. If you want to get an idea of how that might work, you might want to take a look at the work of Richard Felder.
 
 ####Meeting with you before we start
 
