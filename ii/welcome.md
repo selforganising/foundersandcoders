@@ -27,7 +27,7 @@ To help with the selection, I would like you to spend a couple of minutes to com
 
 Collective is at 161 Camden High Street, NW1 7JY.
 
-The Academy is around the side of the building on Underhill Passage, on the first floor above the C/159 pop-up shop and next to Pret, 2 minutes walk from Camden Town tube. It's a small door on the right with a big "C" on it. Just ring on the bell or call me on 07727 207 226 when you arrive.
+The Academy is around the side of the building on Underhill Passage, on the first floor above the C/159 pop-up shop, 2 minutes walk from Camden Town tube. It's a small door on the right with a big "C" on it. Just ring the bell or call me on 07727 207 226 when you arrive.
 
 ![The Collective side door at 161 Camden High Street](/images/sidedoor.jpg)
 
