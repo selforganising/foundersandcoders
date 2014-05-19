@@ -7,7 +7,7 @@ May 19, 2014
 
 This is now the third time we have run a coding course at Collective, but this one is different.
 
-Firstly, the quality of applications has been uniformaly high and we have had to turn away some very good applicants. If you are on this course, it is because we think you are capable of getting a lot from it and also giving a lot back in return. 
+Firstly, the quality of applications has been uniformly high and we have had to turn away some very good applicants. If you are on this course, it is because we think you are capable of getting a lot from it and also giving a lot back in return. 
 
 Secondly, for the first two courses we relied heavily on [CS101](https://www.udacity.com/course/cs101) and [CS253](https://www.udacity.com/course/cs253) for our syllabus. These are great courses--and we recommend them--but the training wheels are now off. This is a course primarily about web development and for that we need to learn JavaScript.
 
