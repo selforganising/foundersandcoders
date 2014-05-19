@@ -1,6 +1,7 @@
 ---
 layout: class
 title: Welcome to Cohort II of Founders & Coders
+tag: ii
 ---
 
 May 19, 2014
