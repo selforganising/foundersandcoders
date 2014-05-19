@@ -1,5 +1,5 @@
 ---
-layout: class
+layout: cohort
 title: Welcome to Cohort II of Founders & Coders
 tag: ii
 ---
