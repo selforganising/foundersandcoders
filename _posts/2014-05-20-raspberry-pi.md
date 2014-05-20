@@ -3,11 +3,11 @@ layout: seminar
 title: Programming the Raspberry Pi
 ---
 
-###Quick intro
+####Quick intro
 
 The [Raspberry Pi website](http://www.raspberrypi.org/help/what-is-a-raspberry-pi/) has a lot of information, but if you want a quick introduction [go here first](http://www.raspberrypi.org/help/what-is-a-raspberry-pi/).
 
-###The task
+####The task
 
 1. Inspect the Raspberry Pi and the  various detectors;
 1. Decide on a project idea;
@@ -15,7 +15,7 @@ The [Raspberry Pi website](http://www.raspberrypi.org/help/what-is-a-raspberry-p
 1. Divide the tasks up;
 1. Start working.
 
-###What you need to find out
+####What you need to find out
 
 1. The programming  environment;
 1. The libraries you will need;
@@ -23,7 +23,7 @@ The [Raspberry Pi website](http://www.raspberrypi.org/help/what-is-a-raspberry-p
 1. How to connect devices to the GPIO; 
 1. How to set up a web service on the Pi.
 
-###The groups
+####The groups
 
 Within your groups, each take one of the following roles:
 
