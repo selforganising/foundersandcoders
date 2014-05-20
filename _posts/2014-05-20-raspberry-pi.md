@@ -28,6 +28,6 @@ The [Raspberry Pi website](http://www.raspberrypi.org/help/what-is-a-raspberry-p
 Within your groups, each take one of the following roles:
 
 1. Project  manager
-2. Programmer
+2. Programmer (x 2)
 1. Engineer
 1. Analyst
