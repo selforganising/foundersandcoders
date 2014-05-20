@@ -1,3 +1,8 @@
+---
+layout: seminar
+title: Programming the Raspberry Pi
+---
+
 ###Quick intro
 
 The [Raspberry Pi website](http://www.raspberrypi.org/help/what-is-a-raspberry-pi/) has a lot of information, but if you want a quick introduction [go here first](http://www.raspberrypi.org/help/what-is-a-raspberry-pi/).
