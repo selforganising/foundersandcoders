@@ -24,7 +24,7 @@ But what if the value we are taking is not an integer but a function:
 
     f = logger(f)
 
-In this case, we are taking some function *f* and printing out some logging information before returning the function.
+In this case, we are taking some function *f* and printing out some logging information before returning the function (thanks to [Simeon Franklin](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/) for this example).
 
 None of the work is done until *f* is actually called. When it is, the arguments used are passed to the *with_log* function defined in *logger*. This prints out some logging information before returning the original function.
 
@@ -61,5 +61,4 @@ It is nothing particularly clever. It is just telling the reader, *"watch out, t
 That's it.
 
 If you want more information, Bruce Eckel has written a good [Introduction to Python Decorators](http://www.artima.com/weblogs/viewpost.jsp?thread=240808).
-
 
