@@ -12,7 +12,7 @@ A nice essay on [the differences between JavaScript and Python](https://blog.gly
 ####Why JavaScript?
 
 JavaScript was developed for the release of Netscape Navigator 2.0 in 1995 and was added to Microsoft Internet Explorer 3.0 the following year. Notoriously, Brendan Eich [created it in 10 days](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript). Despite being full of bad design decisions and having a syntax that superficially looks like Java, it is has some very powerful programming features--not shared by many mainstream languages--borrowed from languages like Lisp and Smalltalk. 
-It was originally pitched as a nice way to do form validation and was quickly adopted for implementing dynamic page elements, like dropdown menus (in the days when CSS did not have the capacity for this sort of thing). It was several years before the JavaScript was widely recognised, not as a toy scripting language for pepping up websites, but as a serious programming language.
+It was originally pitched as a nice way to do form validation and was quickly adopted for implementing dynamic page elements, like dropdown menus. It was several years before JavaScript was widely recognised, not as a toy scripting language for pepping up web pages, but as a serious programming language.
 
 By the early 2000s, it began to be used for populating an already-loaded web page with new content in what became known as AJAX (asynchronous JavaScript and XML) applications. Google launched gmail in 2004 and Google Maps the following year. The widely-used jQuery library was released in 2006. The Google V8 JavaScript engine, which greatly speeded up the execution of JavaScript, was released in 2008 with the first version of Google Chrome.
 

@@ -15,40 +15,49 @@ The `posts=oposts` argument is of this form because it is being passed into the 
 
 The *blog_front* template might look like this:
 
-    { % extends "base.html" %}
-    { % block title %}Blog posts{ % endblock %}
-    { % block content %}
+
+{% raw %}
+    {% extends "base.html" %}
+    {% block title %}Blog posts{ % endblock %}
+    {% block content %}
       <ul>
       { % for post in posts %}
-        <li><a href="/posts/{ { post.id }}">{ { post.title }}</a></li>
+        <li><a href="/posts/{{ post.id }}">{{ post.title }}</a></li>
       { % endfor %}
       </ul>
-    { % endblock %}
+    {% endblock %}
+{% endraw %}
 
 And a bare-bones *base* template might look like this:
 
+{% raw %}
     <!DOCTYPE html>
     <html>
       <head>
-        <title>{ % block title %}The site{ % endblock %}</title>
+        <title>{% block title %}The site{% endblock %}</title>
       </head>
       <body>
-        { % block content %}
-        { % endblock %}
+        {% block content %}
+        {% endblock %}
       </body>
     </html>
+{% endraw %}
 
-The `{ % block %}` tags indicate a block of text that may be over-written by a template that extends the base template and extends or replaces the block.
+The `{% raw %}{% block %}{% endraw %}` tags indicate a block of text that may be over-written by a template that extends the base template and extends or replaces the block.
 
 The *blog_front* template might also have something that looks like this:
 
-    { { post.render() }} 
+{% raw %}
+    {{ post.render() }} 
+{% endraw %}
 
 Which will work if each *post* is an object that has a *render* method, defined somewhere in your application. This could be used, for example, to turn carriage returns into \<br\> tags.
 
 It could also have something like this:
 
-    { { post.render() | safe }}
+{% raw %}
+    {{ post.render() | safe }}
+{% endraw %}
 
 Where the `|` denotes a custom filter in which the function (and it can be any regular Python function) is on the right and first argument to the function is on the left, so that this is equivalent to inserting into the document:
 
@@ -58,7 +67,9 @@ Which, in this case, will ensure that the post is appropriately escaped.
 
 You could also do something like:
 
-    { { post.date | datetimeformat('%d-%m-%Y') } }}
+{% raw %}
+    {{ post.date | datetimeformat('%d-%m-%Y') }}
+{% endraw %}
 
 Which will format a date nicely.
 
