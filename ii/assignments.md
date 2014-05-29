@@ -24,18 +24,6 @@ Learn how to make your websites interactive and how to build browser based games
 
 A wonderful series of lectures by Doug Crockford. A panaramic overview of JavaScript at an advanced level. Make a note of any terms you do not understand (of which there will be several). We will be able to return to these terms over the course of the the next two months. Watch each lecture until you are no longer enjoying the experience and then fast forward or move onto the next one (Lecture 3 is probably the hardest to follow), but don't give up until the last of the eight lectures. You may want to rewatch these lectures at the end of the course. Up to 10 hours of viewing pleasure.
 
-#####[Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/)
-
-First two chapters only. Chapter 1: Getting Started & Basic DOM and Styles. Chapter 2: Advanced DOM and Styles. 1-2 hours.
-
-#####[Command line Crash Course]()
-
-You need to get familiar with the command line. We are going to be spending a lot of time on it. Also available online](http://cli.learncodethehardway.org/book/). 
-
-#####[GitHub and Git Foundations](https://www.youtube.com/watch?v=FyfwLX4HAxM&list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
-
-Follow along. Install Git. Get a GitHub account. 2 hours.
-
 
 Contact me if you have any problems with any of these assignments.
 
