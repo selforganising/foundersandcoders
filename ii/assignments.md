@@ -27,9 +27,9 @@ Contact me if you have any problems with any of these assignments.
 
 If you do not already have them, please set up accounts with the following services:
 
-1. [Twitter](https://twitter.com/) and follow @selforganising.
-1. [Vine](https://vine.co/).
-1. [Gmail](https://plus.google.com/).
+1. [Twitter](https://twitter.com/) and follow [@selforganising](https://twitter.com/selforganising)
+1. [Vine](https://vine.co/)
+1. [Gmail](https://plus.google.com/)
 1. [Github](https://github.com/)
 1. [Linkedin](https://www.linkedin.com)
 
