@@ -34,7 +34,7 @@ A wonderful series of lectures by Doug Crockford. A panaramic overview of JavaSc
 
 [Steve Yegge's Google platforms rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX), *"Amazon does everything wrong, and Google does everything right...But there's one thing they do really really well that pretty much makes up for ALL of their political, philosophical and technical screw-ups"*.
 
-[http://youtu.be/5Tk09c0FQ3M](Computer Science: Past, Present, and Future), a talk by Ed Lazowska.
+[Computer Science: Past, Present, and Future](http://youtu.be/5Tk09c0FQ3M), a talk by Ed Lazowska.
 
 [The Future Doesn't Have to Be Incremental](http://youtu.be/gTAghAJcO1o), a talk by Alan Kay.
 
