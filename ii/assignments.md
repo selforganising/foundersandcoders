@@ -2,7 +2,7 @@
 layout: cohort
 title: Pre-course assignments
 ---
-These assignments are not optional. Do them before June 16th.
+#####These assignments are not optional. Do them before June 16th.
 
 #####[Stanford's Computer Science 101](https://www.coursera.org/course/cs101)
 
