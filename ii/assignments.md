@@ -45,5 +45,5 @@ If you do not already have them, please set up accounts with the following servi
 
 [**The Future Doesn't Have to Be Incremental**](http://youtu.be/gTAghAJcO1o), a talk by Alan Kay.
 
-[**Inventing on Principle**](http://vimeo.com/36579366), a talk by Bret victor.
+[**Inventing on Principle**](http://vimeo.com/36579366), a talk by Bret Victor.
 
