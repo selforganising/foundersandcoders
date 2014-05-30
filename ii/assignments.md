@@ -39,7 +39,7 @@ If you do not already have them, please set up accounts with the following servi
 
 [**Crockford on JavaScript**](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB). A wonderful series of lectures by Doug Crockford. A panaramic overview of JavaScript at an advanced level. Make a note of any terms you do not understand (of which there will be several) and can return to them over the course of the the next two months. Watch each lecture until you are no longer enjoying the experience and then fast forward or move onto the next one (Lecture 3 is probably the hardest to follow), but don't give up until the last of the eight lectures. You may want to rewatch these lectures at the end of the course. Up to 10 hours of viewing pleasure.
 
-[**Steve Yegge's Google platforms rant**](https://plus.google.com/+RipRowan/posts/eVeouesvaVX), *"Amazon does everything wrong, and Google does everything right...But there's one thing they do really really well that pretty much makes up for ALL of their political, philosophical and technical screw-ups"*.
+[**Steve Yegge's Google platforms rant**](https://plus.google.com/+RipRowan/posts/eVeouesvaVX). *"Amazon does everything wrong, and Google does everything right...But there's one thing they do really really well that pretty much makes up for ALL of their political, philosophical and technical screw-ups"*.
 
 [**Computer Science: Past, Present, and Future**](http://youtu.be/5Tk09c0FQ3M), a talk by Ed Lazowska.
 
