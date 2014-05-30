@@ -35,9 +35,9 @@ If you do not already have them, please set up accounts with the following servi
 
 ####Optional assignments
 
-#####[Crockford on JavaScript](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB)
-
 [CSS Diner](http://flukeout.github.io/#), a great way to learn CSS selectors. Hint: the answers to the first three levels are *"plate"*, *"bento"* and *"#fancy"*, respectively. Hopefully, you will be able to take it from there. 
+
+#####[Crockford on JavaScript](https://www.youtube.com/watch?v=JxAXlJEmNMg&list=PL7664379246A246CB)
 
 A wonderful series of lectures by Doug Crockford. A panaramic overview of JavaScript at an advanced level. Make a note of any terms you do not understand (of which there will be several) and can return to them over the course of the the next two months. Watch each lecture until you are no longer enjoying the experience and then fast forward or move onto the next one (Lecture 3 is probably the hardest to follow), but don't give up until the last of the eight lectures. You may want to rewatch these lectures at the end of the course. Up to 10 hours of viewing pleasure.
 
