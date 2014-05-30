@@ -23,6 +23,15 @@ Learn how to make your websites interactive and how to build browser based games
 
 Contact me if you have any problems with any of these assignments.
 
+#####Accounts
+
+If you do not already have them, please set up accounts with the following services:
+
+[Twitter](https://twitter.com/) and follow @selforganising.
+[Vine](https://vine.co/).
+[Gmail](https://plus.google.com/).
+[Github](https://github.com/)
+[Linkedin](https://www.linkedin.com)
 
 ####Optional assignments
 
