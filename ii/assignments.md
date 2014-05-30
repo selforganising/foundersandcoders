@@ -30,8 +30,8 @@ If you do not already have them, please set up accounts with the following servi
 1. [Twitter](https://twitter.com/) and follow [@selforganising](https://twitter.com/selforganising)
 1. [Vine](https://vine.co/)
 1. [Gmail](https://plus.google.com/)
-1. [Github](https://github.com/)
-1. [Linkedin](https://www.linkedin.com)
+1. [GitHub](https://github.com/)
+1. [LinkedIn](https://www.linkedin.com)
 
 ####Optional assignments
 
