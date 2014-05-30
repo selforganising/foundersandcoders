@@ -20,9 +20,6 @@ jQuery uses JavaScript to easily build interactive websites. Learn animation, ev
 
 Learn how to make your websites interactive and how to build browser based games. 10 hours.
 
-
-Contact me if you have any problems with any of these assignments.
-
 #####Accounts
 
 If you do not already have them, please set up accounts with the following services:
@@ -32,6 +29,8 @@ If you do not already have them, please set up accounts with the following servi
 1. [Gmail](https://plus.google.com/)
 1. [GitHub](https://github.com/)
 1. [LinkedIn](https://www.linkedin.com)
+
+Contact me if you have any problems with any of these assignments.
 
 ####Optional assignments
 
