@@ -28,3 +28,14 @@ A wonderful series of lectures by Doug Crockford. A panaramic overview of JavaSc
 Contact me if you have any problems with any of these assignments.
 
 
+####Optional assignments
+
+[CSS Diner](http://flukeout.github.io/#), a great way to learn CSS selectors. Hint: the answers to the first three levels are *"plate"*, *"bento"* and *"#fancy#*, respectively. Hopefully, you will be able to take it from there. 
+
+[Steve Yegge's Google platforms rant](https://plus.google.com/+RipRowan/posts/eVeouesvaVX), *"Amazon does everything wrong, and Google does everything right...But there's one thing they do really really well that pretty much makes up for ALL of their political, philosophical and technical screw-ups"*.
+
+[http://youtu.be/5Tk09c0FQ3M](Computer Science: Past, Present, and Future), a talk by Ed Lazowska.
+
+[The Future Doesn't Have to Be Incremental](http://youtu.be/gTAghAJcO1o), a talk by Alan Kay.
+
+
