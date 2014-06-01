@@ -32,7 +32,7 @@ None of the work is done until *f* is actually called. When it is, the arguments
 
 This, by the way, is an example of a *closure* (from which the *clojure* programming language gets its name), where the *with_log* function retains the value of the function *f*, which is defined not in *with_log* but outside it in the enclosing *logger* function.
 
-Using the decorator syntax, instead of writing:
+Using the decorator syntax and assuming that the *logger* function is already defined, instead of writing:
 
     def f():
         <define f here>
