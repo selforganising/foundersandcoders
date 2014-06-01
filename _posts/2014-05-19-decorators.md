@@ -17,9 +17,11 @@ No big deal. We have just changed the value of *x* from some integer to the squa
 But what if the value we are taking is not an integer but a function:
 
     def logger(f):
+
         def with_log(*args, **kwargs):
             print "Arguments: %s, %s" % (args, kwargs)
             return f(*args, **kwargs)
+
         return with_log
 
     f = logger(f)
