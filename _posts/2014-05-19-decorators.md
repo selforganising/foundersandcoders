@@ -18,8 +18,8 @@ But what if the value we are taking is not an integer but a function:
 
     def logger(f):
         def with_log(*args, **kwargs):
-	    print "Arguments: %s, %s" % (args, kwargs)
-	    return f(*args, **kwargs)
+            print "Arguments: %s, %s" % (args, kwargs)
+            return f(*args, **kwargs)
         return with_log
 
     f = logger(f)
@@ -32,6 +32,7 @@ Using the decorator syntax, instead of writing:
 
     def f():
         <define f here>
+
     f = logger(f)
 
 we can write:
@@ -52,6 +53,7 @@ is equivalent to:
 
     def by_id(cls, uid):
         return User.get_by_id(uid)
+
     by_id = classmethod(by_id)
 
 It is an easy way to announce that a method is intended not to act on a single instance of a class, but instead on the whole class.
