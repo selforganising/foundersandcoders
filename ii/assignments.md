@@ -12,7 +12,7 @@ CS101 is a gentle introduction to programming concepts that uses (a slightly doc
 
 Learn the building blocks of web development with HTML and CSS, and create your own website by the end of the course. 7 hours.
 
-#####[Codecademny's jQuery](http://www.codecademy.com/tracks/jquery)
+#####[Codecademy's jQuery](http://www.codecademy.com/tracks/jquery)
 
 jQuery uses JavaScript to easily build interactive websites. Learn animation, events and DOM manipulation. 3 hours.
 
@@ -33,6 +33,8 @@ If you do not already have them, please set up accounts with the following servi
 Contact me if you have any problems with any of these assignments.
 
 ####Optional assignments
+
+[Codecademy's Web Projects](http://www.codecademy.com/tracks/projects) - *ADDED June 1*
 
 [**CSS Diner**](http://flukeout.github.io/#), a great way to learn CSS selectors. Hint: the answers to the first three levels are *"plate"*, *"bento"* and *"#fancy"*, respectively. Hopefully, you will be able to take it from there. 
 
