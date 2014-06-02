@@ -30,7 +30,7 @@ In this case, we are taking some function *f* and printing out some logging info
 
 None of the work is done until *f* is actually called. When it is, the arguments used are passed to the *with_log* function defined in *logger*. This prints out some logging information before returning the original function.
 
-This, by the way, is an example of a *closure* (from which the *clojure* programming language gets its name), where the *with_log* function retains the value of the function *f*, which is defined not in *with_log* but outside it in the enclosing *logger* function.
+This, by the way, is an example of a *closure* (from which the *clojure* programming language gets its name), where theiinner  *with_log* function retains the value of the function *f*, which is define in the outer *logger* function, i.e. the inner function *encloses* the outer function. 
 
 Using the decorator syntax and assuming that the *logger* function is already defined, instead of writing:
 
