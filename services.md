@@ -1,6 +1,6 @@
 ---
-layout: vanilla
-title: Founders & Coders bounties
+layout: info
+title: Services
 ---
 [Founders & Coders](http://foundersandcoders.org/) wants to help you with your web project.
 
