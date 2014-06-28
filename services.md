@@ -4,7 +4,7 @@ title: Services
 ---
 [Founders & Coders](http://foundersandcoders.org/) wants to help you with your web project.
 
-Our London-based team of developers will tackle any project of any size with no commitment required by you. 
+Our London-based team of developers will tackle any project of any size with no commitment required from you. 
 
 If you are not delighted with the work we do, you pay nothing.
 
