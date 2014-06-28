@@ -1,7 +1,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
-    letter-spacing: .16em;
+    letter-spacing: .14em;
     font-weight: bold;
 //    color: navy;
 }
@@ -11,10 +11,12 @@ body {
     float: left;
     margin: 1em;
     padding: 0.1em;
-    width: 7em;
-    height: 7em;
-//    border: 0.3em solid;
-//    border-radius: 1em;
+    width: 5.4em;
+    height: 5.4em;
+    color: #fff;
+    background: #4285f4;
+    border: 0.3em solid;
+    border-radius: 1em;
 }
 
 .founders, .coders, .laptop, .fc, .one, .two, .three, .four, .five {
@@ -29,8 +31,8 @@ body {
     left: 0.4em;
 }
 .laptop {
-    top: 0.23em;
-    left: 0.18em;
+    top: 0.08em;
+    //left: 0.18em;
 }
 .one {
     top: 1.15em;
@@ -46,8 +48,8 @@ body {
     font-size: 1.5em;
 }
 .four {
-    top: 1.35em;
-    left: 1.5em;
+    top: 0.9em;
+    left: 1em;
     font-size: 1.8em;
 }
 .five {
