@@ -1,31 +1,38 @@
-**What is _Founders & Coders_?**  
-It is a course at [Collective Academy](http://camdencollective.co.uk/academy/), sponsored by [Camden Town Unlimited](http://www.camdentownunlimited.com/).
+**What is *Founders & Coders*?**  
+It is an intensive full-time course in web development.
 
-**Who is this course suitable for?**  
-It is for people with little or no experience of programming who want to learn to build web applications.
+**What is the aim of the course?**    
+To give students sufficient skills to seek freelance projects, to find employment, or to work on their own web-based startup.
 
 **What will I learn?**  
-The [class pages](intro) for the current course give an idea of the structure of the course, although some of the content will be changing. Coursera's [Startup Engineering](https://www.coursera.org/course/startup) covers some of the same ground.
+You will learn how to create software and build web applications using *JavaScript*, *Node.js*, and a wide variety of libaries and tools.
 
 **How much does it cost?**  
-There are currently no fees.
+There are no fees, but students are expected to engage in a range of activities in support of both the the course and their own vocational development, including communicating with potential sponsors, employers and clients, and working on client projects.
 
-**I cannot study full-time. Are you offering any other courses?**  
-We are concentrating on the full-time course for now, but if you want to hear about new courses, <a href="mailto:collective-academy+subscribe@googlegroups.com" target="_blank">please join the mailing list</a>. 
+**What are the main reasons I should take this course?**    
+The skills it will give you. The high commitment level of the other students. The quality of the learning experience.
 
-**Are there any restrictions on who can apply to study at Collective Academy?**  
-Anyone over the age of 18 can apply. We particularly welcome applications from people aged 18-24 who live in Camden or who have recently studied at a Camden school or college.
-
-**What are the entry requirements?**  
+**Who is this course suitable for?**  
 There are no academic requirements, but not everyone will be suited to the style of learning this course requires. You need to be self-motivated and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
 
+**Are there any restrictions on who can apply?**  
+Anyone over the age of 18 can apply. We particularly welcome applications from people aged 18-24 who live in Camden or who have recently studied at a Camden school or academic institution.
+
 **What happens after the course ends?**  
-You will join our alumni network, for whom we are developing a programme of continuing education and events.
+You will join our alumni network, for whom we are developing a programme of continuing support, education and professional development. 
+
+**I want to find employment as a web developer after the course. Can you help?**    
+We will provide you with opportunities to establish contact with potential employers during the course and we have a small but growing roster of employers prepared to offer internships to our students after they graduate.
+
+**I want to work as a freelance developer after the course. Can you help?**    
+We will help you find real client projects before the end of the course and there may be opportunities to continue to work freelance through *Founders & Coders* after you graduate.
 
 **I want to work on my own startup idea after the course. Can you help?**  
-Alumni of the Academy who are serious about starting their own business are encouraged to apply for membership of [Collective](http://camdencollective.co.uk/hubs/) with all the benefits that provides, including free hot-desking space, participation in the Accelerator programme and access to a wider community of fellow founders and business mentors.
+Alumni of the Academy who are serious about starting their own business are encouraged to [apply for membership of *Collective*](http://camdencollective.co.uk/hubs/).
 
+**How long has the course been running?**    
+The first cohort graduated in February 2014 and the third cohort graduate in August 2014.
 
-
-
-
+**Who is the course run by?**    
+The course is run by *Dan Sofer*, hosted by [*Collective*](http://camdencollective.co.uk/) and funded by [*Camden Town Unlimited*](http://www.camdentownunlimited.com/).
