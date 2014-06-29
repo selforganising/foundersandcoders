@@ -35,4 +35,4 @@ Alumni of the Academy who are serious about starting their own business are enco
 The first cohort graduated in February 2014 and the third cohort graduate in August 2014.
 
 **Who is the course run by?**    
-The course is run by *Dan Sofer*, hosted by [*Collective*](http://camdencollective.co.uk/) and funded by [*Camden Town Unlimited*](http://www.camdentownunlimited.com/).
+The course is run by [*Dan Sofer*](http://sofer.com/), hosted by [*Collective*](http://camdencollective.co.uk/) and funded by [*Camden Town Unlimited*](http://www.camdentownunlimited.com/).
