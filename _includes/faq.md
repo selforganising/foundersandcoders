@@ -26,7 +26,7 @@ You will join our alumni network, for whom we are developing a programme of cont
 We will provide you with opportunities to establish contact with potential employers during the course and we have a small but growing roster of employers prepared to offer internships to our students after they graduate.
 
 **I want to work as a freelance developer after the course. Can you help?**    
-We will help you find real client projects before the end of the course and there may be opportunities to continue to work freelance through *Founders & Coders* after you graduate.
+During the course there will be opportunities to work on client projects and to seek new projects for after you graduate.
 
 **I want to work on my own startup idea after the course. Can you help?**  
 Alumni of the Academy who are serious about starting their own business are encouraged to [apply for membership of *Collective*](http://camdencollective.co.uk/hubs/).
