@@ -1,0 +1,19 @@
+img {
+
+	height: 200px;
+	width: 200px;
+	border:1px solid #;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;  
+}
+
+.og-fullimg img {
+
+	width:480px;
+	height: 500px;
+}
+
+h4{
+	color: black;
+}
