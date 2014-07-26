@@ -1,5 +1,5 @@
 ---
-title: Founders & Coders Application 
+title: Founders & Coders expression of interest
 layout: info
 ---
 
