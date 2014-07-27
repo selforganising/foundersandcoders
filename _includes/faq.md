@@ -7,8 +7,20 @@ To give students sufficient skills to seek freelance projects, to find employmen
 **What will I learn?**  
 You will learn how to create software and build web applications using *JavaScript*, *Node.js*, and a wide variety of libaries and tools.
 
+**Can you give me a bit more information about the course content?**    
+It is subject to change, but here is a brief run-down: development environments, source control, agile development, static websites, HTML, CSS, client-side programming, JavaScript, the DOM, AJAX, APIs, server-side programming, MVC, Databases, REST, build tools, testing, data visualisation, client-side applications, product development.
+
+**Which libraries and tools will we be using?**    
+Again, it is subject to change, but here is a partial list: PivotalTracker, Git, GitHub, Jekyll, Bootstrap, Sass, jQuery, EJS, Node.js, Express.js, MongoDB, Jade, Jasmine, Gulp, Bower, D3.js, AngularJS.
+
+**What are the hours of study?**    
+The minimum commitment is eight weeks on-site Monday to Friday, 10am-6pm. There is homework, too.
+
+**How is the classroom organised?**    
+The course is largely project-based and role-based with students working in teams of three or four and a maximum of 16 students in total. Every day there is a short morning lecture at 10am, a seminar at 2pm  a code review at 5pm and group supervision throughout the day. All students are expected to take turns to deliver seminars, run code reviews, manage projects, and edit their team website.
+
 **How much does it cost?**  
-There are no fees, but students are expected to engage in a range of activities in support of both the the course and their own vocational development, including communicating with potential sponsors, employers and clients, and working on client projects.
+There are no fees.
 
 **What are the main reasons I should take this course?**    
 The skills it will give you. The high commitment level of the other students. The quality of the learning experience.
@@ -20,16 +32,19 @@ There are no academic requirements, but not everyone will be suited to the style
 Anyone over the age of 18 can apply. We particularly welcome applications from people aged 18-24 who live in Camden or who have recently studied at a Camden school or academic institution.
 
 **What happens after the course ends?**  
-You will join our alumni network, for whom we are developing a programme of continuing support, education and professional development. 
+You will join our alumni network, for whom we are developing a programme of continuing support, education and professional development. We are also developing an apprenticeship programme for students who wish to continue working with us and developing their skills after the course ends.
 
 **I want to find employment as a web developer after the course. Can you help?**    
-We will provide you with opportunities to establish contact with potential employers during the course and we have a small but growing roster of employers prepared to offer internships to our students after they graduate.
+We have a small roster of employers who will accept applications for internships from our students.
 
 **I want to work as a freelance developer after the course. Can you help?**    
-During the course there will be opportunities to work on client projects and to seek new projects for after you graduate.
+We may be able to help you find opportunities to work on client projects after you graduate.
 
 **I want to work on my own startup idea after the course. Can you help?**  
 Alumni of the Academy who are serious about starting their own business are encouraged to [apply for membership of *Collective*](http://camdencollective.co.uk/hubs/).
+
+**What's this about apprenticeships?**    
+It all depends on the availability of suitable projects, but we are likely to be running a pilot in August with some of our current students.
 
 **How long has the course been running?**    
 The first course ran early in 2014 and the third cohort graduate in August.
