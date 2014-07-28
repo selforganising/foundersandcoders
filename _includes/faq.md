@@ -50,4 +50,4 @@ It all depends on the availability of suitable projects, but we are likely to be
 The first course ran early in 2014 and the third cohort graduate in August.
 
 **Who is the course run by?**    
-The course is run by [*Dan Sofer*](http://sofer.com/), hosted by [*Collective*](http://camdencollective.co.uk/) and funded by [*Camden Town Unlimited*](http://www.camdentownunlimited.com/).
+The course is run by [*Dan Sofer*](http://sofer.com/), hosted by [*Collective*](http://camdencollective.co.uk/) and funded through [*Camden Town Unlimited*](http://www.camdentownunlimited.com/).
