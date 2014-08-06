@@ -35,7 +35,7 @@ Through the course and through our alumni network, we will introduce you to a po
 We may be able to help you find opportunities to work on client projects after you graduate.
 
 **I want to find employment as a web developer after the course. Can you help?**    
-We have a small roster of employers who have already given jobs to our graduates and will accept applications for internships from our students.
+We have a small roster of employers who have already given jobs to our graduates and are accepting applications for internships from our students.
 
 **What's this about apprenticeships?**    
 It all depends on the availability of suitable projects, but we are likely to be running a pilot in August with some of our most recent graduates.
