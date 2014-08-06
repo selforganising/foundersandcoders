@@ -23,7 +23,7 @@ The skills it will give you. The quality of the learning experience. The Founder
 There are no academic requirements, but not everyone will be suited to the style of learning this course requires. You need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
 
 **Are there any restrictions on who can apply?**  
-Anyone over the age of 18 can apply. We particularly welcome applications from people aged 18-24 who live in Camden or who have recently studied at a Camden school or academic institution (but don't let that put you off applying, if that doesn't describe you).
+Anyone over the age of 18 can apply. We welcome applications from people aged 18-24 who live of have studied in Camden (and who typically make up around half our successful applicants).
 
 **What happens after the course ends?**  
 You will join the Founders & Coders community. We are also developing an apprenticeship programme for students who wish to continue working with us and developing their skills after the course ends.
@@ -47,7 +47,7 @@ The first course ran early in 2014 and the third cohort graduated in August.
 The course is run by [*Dan Sofer*](http://sofer.com/), hosted by [*Collective*](http://camdencollective.co.uk/) and part-funded through [*Camden Town Unlimited*](http://www.camdentownunlimited.com/).
 
 **If this course is so good, why are you offering it for free?**    
-We are trying to build a community and we do not think we can do that by charging an entry fee. 
+We are trying to build a community and we do not think we can do that by charging an entry fee.
 
 **Can you give me a bit more information about the course content?**    
 It is subject to change, but here is a brief run-down: development environments, source control, agile development, static websites, HTML, CSS, client-side programming, JavaScript, the DOM, AJAX, APIs, server-side programming, MVC, Databases, REST, build tools, testing, data visualisation, client-side applications, product development.
