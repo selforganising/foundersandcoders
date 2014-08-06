@@ -11,7 +11,7 @@ You will learn how to create software and build web applications using *JavaScri
 The minimum commitment is eight weeks on-site Monday to Friday, 10am-6pm. There is homework, too.
 
 **How is the classroom organised?**    
-The course is project-based with students working in teams of three or four and a maximum of 16 students in total. Students take turns to deliver seminars, run code reviews, manage projects, and edit their team's website.
+The course is project-based with 16 students working in teams of four. Students take turns to deliver seminars, run code reviews, manage projects, and edit their team's online presence.
 
 **How much does it cost?**  
 There are no fees.
@@ -23,22 +23,19 @@ The skills it will give you. The quality of the learning experience. The Founder
 There are no academic requirements, but not everyone will be suited to the style of learning this course requires. You need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
 
 **Are there any restrictions on who can apply?**  
-Anyone over the age of 18 can apply. We welcome applications from people aged 18-24 who live of have studied in Camden (and who typically make up around half our successful applicants).
+Anyone over the age of 18 can apply. We welcome applications from people aged 18-24 who live of have studied in Camden (who typically make up around half of each cohort).
 
 **What happens after the course ends?**  
-You will join the Founders & Coders community. We are also developing an apprenticeship programme for students who wish to continue working with us and developing their skills after the course ends.
+You will join the Founders & Coders community, which offers a growing range of opportunities for course gradautes.
+
+**Can you find projects for me to work on after I graduate?**
+Quite possibly. A number of our graduates have worked on freelance projects with us before moving on to other things.
 
 **I want to work on my own startup idea after the course. Can you help?**  
-Through the course and through our alumni network, we will introduce you to a pool of potential co-founders and developers. And we are part of [Collective](http://camdencollective.co.uk/), who can offer you free co-working space and access to a wider startup community in Camden.
-
-**I want to work as a freelance developer after the course. Can you help?**    
-We may be able to help you find opportunities to work on client projects after you graduate.
+Through the course and through our alumni network, we will introduce you to a pool of potential co-founders and developers. And we are part of [Collective](http://camdencollective.co.uk/), which offers free co-working space and access to a wider startup community in Camden.
 
 **I want to find employment as a web developer after the course. Can you help?**    
 We have a small roster of employers who have already given jobs to our graduates and are accepting applications for internships from our students.
-
-**What's this about apprenticeships?**    
-It all depends on the availability of suitable projects, but we are likely to be running a pilot in August with some of our most recent graduates.
 
 **How long has the course been running?**    
 The first course ran early in 2014 and the third cohort graduated in August.
