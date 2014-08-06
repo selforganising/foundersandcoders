@@ -23,12 +23,12 @@ The skills it will give you. The quality of the learning experience. The Founder
 There are no academic requirements, but not everyone will be suited to the style of learning this course requires. You need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
 
 **Are there any restrictions on who can apply?**  
-Anyone over the age of 18 can apply. We welcome applications from people aged 18-24 who live of have studied in Camden (who typically make up around half of each cohort).
+Anyone over the age of 18 can apply. We particularly welcome applications from people aged 18-24 who live of have studied in Camden (who typically make up around half of each cohort).
 
 **What happens after the course ends?**  
-You will join the Founders & Coders community, which offers a growing range of opportunities for course gradautes.
+You will join the Founders & Coders community, which offers a growing range of opportunities for course graduates.
 
-**Can you find projects for me to work on after I graduate?**
+**Can you find projects for me to work on after I graduate?**    
 Quite possibly. A number of our graduates have worked on freelance projects with us before moving on to other things.
 
 **I want to work on my own startup idea after the course. Can you help?**  
@@ -44,11 +44,11 @@ The first course ran early in 2014 and the third cohort graduated in August.
 The course is run by [*Dan Sofer*](http://sofer.com/), hosted by [*Collective*](http://camdencollective.co.uk/) and part-funded through [*Camden Town Unlimited*](http://www.camdentownunlimited.com/).
 
 **If this course is so good, why are you offering it for free?**    
-We are trying to build a community and we do not think we can do that by charging an entry fee.
+We are trying to build a community and we do not think we can do that by charging an entry fee. 
 
 **Can you give me a bit more information about the course content?**    
 It is subject to change, but here is a brief run-down: development environments, source control, agile development, static websites, HTML, CSS, client-side programming, JavaScript, the DOM, AJAX, APIs, server-side programming, MVC, Databases, REST, build tools, testing, data visualisation, client-side applications, product development.
 
 **Which libraries and tools will we be using?**    
-Again, it is subject to change, but here is a partial list: Git, GitHub, Jekyll, Bootstrap, Sass, jQuery, EJS, Node.js, MongoDB, Jade, Jasmine, Gulp, Bower, D3.js, AngularJS.
+Again, it is subject to change, but here is a partial list: Git, Jekyll, Bootstrap, Sass, jQuery, EJS, Node.js, MongoDB, Jade, Jasmine, Gulp, Bower, D3.js, AngularJS.
 
