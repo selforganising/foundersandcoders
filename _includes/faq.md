@@ -7,17 +7,26 @@ To give students sufficient skills to seek freelance projects, to find employmen
 **What will I learn?**  
 You will learn how to create software and build web applications using *JavaScript*, *Node.js*, and a wide variety of libaries and tools.
 
+**How long does the course run for?**
+Eight weeks.
+
+**Where is the course based?**
+In Camden Town.
+
+**How often does the course run?**
+Three times a year.
+
 **What are the hours of study?**    
-The minimum commitment is eight weeks on-site Monday to Friday, 10am-6pm. There is homework, too.
+The minimum commitment is Monday to Friday, 10am-6pm. There is homework, too.
 
 **How is the classroom organised?**    
 The course is project-based with 16 students working in teams of four. Students take turns to deliver seminars, run code reviews, manage projects, and edit their team's online presence.
 
-**How much does it cost?**  
-There are no fees.
-
 **What are the main reasons I should take this course?**    
 The skills it will give you. The quality of the learning experience. The Founders & Coders community.
+
+**How much does it cost?**  
+There are no fees.
 
 **Who is this course suitable for?**  
 There are no academic requirements, but not everyone will be suited to the style of learning this course requires. You need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
