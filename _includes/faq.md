@@ -28,6 +28,12 @@ The skills it will give you. The quality of the learning experience. The Founder
 **How much does it cost?**  
 There are no fees.
 
+**What's the catch?**    
+The catch is that when you finish the course, we expect you to go and do something wonderful.
+
+**If this course is so good, why are you offering it for free?**    
+We are trying to build a community and we do not think we can do that by charging an entry fee. 
+
 **Who is this course suitable for?**  
 There are no academic requirements, but not everyone will be suited to the style of learning this course requires. You need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
 
@@ -51,9 +57,6 @@ The first course ran early in 2014 and the third cohort graduated in August.
 
 **Who is the course run by?**    
 The course is run by [*Dan Sofer*](http://sofer.com/), hosted by [*Collective*](http://camdencollective.co.uk/) and part-funded through [*Camden Town Unlimited*](http://www.camdentownunlimited.com/).
-
-**If this course is so good, why are you offering it for free?**    
-We are trying to build a community and we do not think we can do that by charging an entry fee. 
 
 **Can you give me a bit more information about the course content?**    
 It is subject to change, but here is a brief run-down: development environments, source control, agile development, static websites, HTML, CSS, client-side programming, JavaScript, the DOM, AJAX, APIs, server-side programming, MVC, Databases, REST, build tools, testing, data visualisation, client-side applications, product development.
