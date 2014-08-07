@@ -7,13 +7,13 @@ To give students sufficient skills to seek freelance projects, to find employmen
 **What will I learn?**  
 You will learn how to create software and build web applications using *JavaScript*, *Node.js*, and a wide variety of libaries and tools.
 
-**How long does the course run for?**
+**How long does the course run for?**    
 Eight weeks.
 
-**Where is the course based?**
+**Where is the course based?**    
 In Camden Town.
 
-**How often does the course run?**
+**How often does the course run?**    
 Three times a year.
 
 **What are the hours of study?**    
