@@ -1,7 +1,6 @@
 ---
 layout: cohort
 title: Welcome to Cohort 3 of Founders & Coders
-tag: ii
 ---
 
 August 18, 2014
@@ -13,6 +12,8 @@ With FAC2, which finished on August 1st, we turned our curriculum and our teachi
 You are also likely to benefit from recent developments. We are developing our relations with employers, so if you are looking for a role as a software developer, we are likely to be able to help you. Or, if you want to continue to develop your skills with us, we are likely to have projects that you can work on after you graduate. We also have a nascent training arm. If you think you might want to sharpen your own skills after you graduate by teaching others, there may be some interesting options for you. And if you have your own startup idea that you want to pursue, you may find Founders & Coders and Collective a convivial place to pursue it.
 
 The quality of applications has again been uniformly high and we have had to turn away some very good applicants, who would have previously made the cut. If you are on this course, it is because we think you are capable of getting a lot from it and of giving a lot back in return. 
+
+We have ambitious plans and we hope that some of you will be interested in helping us develop them after you graduate.
 
 ####Meeting with you before we start
 
