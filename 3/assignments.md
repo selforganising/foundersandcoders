@@ -6,7 +6,7 @@ title: Pre-course assignments
 
 Send us your Codecademy *Username*, if you have not already done so (you can find it [here](http://www.codecademy.com/edit_account)).
 
-#####[Stanford's Computer Science 101](https://www.coursera.org/course/cs101)
+#####[Stanford's Computer Science 101](https://class.stanford.edu/courses/Engineering/CS101/Summer2014/about)
 
 CS101 is a gentle introduction to programming concepts that uses (a slightly doctored version of) JavaScript, so it is perfect for our purposes. Expect to spend about 10-15 hours on it, including watching the lectures and completing the exercises.
 
