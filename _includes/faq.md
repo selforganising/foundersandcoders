@@ -1,8 +1,11 @@
 **What is *Founders & Coders*?**  
-Founders & Coders runs the intensive full-time course in web development at [Collective Academy](camdencollective.co.uk/academy/) in Camden Town. 
+Founders & Coders runs the [Collective Academy](camdencollective.co.uk/academy/) in Camden Town, funded through [*Camden Town Unlimited*](http://www.camdentownunlimited.com/).
+
+**What is Collective Academy**
+It is an intensive full-time course in web development.
 
 **What is the aim of the course?**    
-To give students sufficient skills to seek freelance projects, to find employment, or to work on their own web-based startup.
+To give students sufficient skills in web development to seek freelance projects, to find employment, or to work on their own web-based startup.
 
 **What will I learn?**  
 You will learn how to create software and build web applications using *JavaScript*, *Node.js*, and a wide variety of libaries and tools.
@@ -56,7 +59,7 @@ We have a small roster of employers who have already given jobs to our graduates
 The first course ran early in 2014 and the third cohort graduated in August.
 
 **Who is the course run by?**    
-The course is run by Founders & Coders, hosted by [*Collective*](http://camdencollective.co.uk/) and funded through [*Camden Town Unlimited*](http://www.camdentownunlimited.com/).
+
 
 **Can you give me a bit more information about the course content?**    
 It is subject to change, but here is a brief run-down: development environments, source control, agile development, static websites, HTML, CSS, client-side programming, JavaScript, the DOM, AJAX, APIs, server-side programming, MVC, Databases, REST, build tools, testing, data visualisation, client-side applications, product development.
