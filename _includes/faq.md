@@ -1,5 +1,5 @@
 **What is *Founders & Coders*?**  
-Founders & Coders is an intensive full-time course in web development. 
+Founders & Coders runs the intensive full-time course in web development at [Collective Academy](camdencollective.co.uk/academy/) in Camden Town. 
 
 **What is the aim of the course?**    
 To give students sufficient skills to seek freelance projects, to find employment, or to work on their own web-based startup.
