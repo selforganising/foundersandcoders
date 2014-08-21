@@ -55,9 +55,6 @@ We have a small roster of employers who have already given jobs to our graduates
 **How long has the course been running?**    
 The first course ran early in 2014 and the third cohort graduated in August.
 
-**Who is the course run by?**    
-
-
 **Can you give me a bit more information about the course content?**    
 It is subject to change, but here is a brief run-down: development environments, source control, agile development, static websites, HTML, CSS, client-side programming, JavaScript, the DOM, AJAX, APIs, server-side programming, MVC, Databases, REST, build tools, testing, data visualisation, client-side applications, product development.
 
