@@ -23,7 +23,7 @@ The minimum commitment is Monday to Friday, 10am-6pm. There is homework, too.
 The course is project-based with 16 students working in teams of four. Students take turns to deliver seminars, run code reviews, manage projects, and edit their team's online presence.
 
 **What are the main reasons I should take this course?**    
-The skills it will give you. The quality of the learning experience. The Founders & Coders community.
+The skills it will give you. The quality of the learning experience. The *Founders & Coders* community.
 
 **How much does it cost?**  
 There are no fees.
@@ -41,7 +41,7 @@ There are no academic requirements, but not everyone will be suited to the style
 Anyone over the age of 18 can apply. We particularly welcome applications from people aged 18-24 who live of have studied in Camden (who typically make up around half of each cohort).
 
 **What happens after the course ends?**  
-You will join the Founders & Coders community, which offers a growing range of opportunities for course graduates.
+You will join the *Founders & Coders* community, which offers a growing range of opportunities for course graduates.
 
 **Can you find projects for me to work on after I graduate?**    
 Quite possibly. A number of our graduates have worked on freelance projects with us before moving on to other things.
