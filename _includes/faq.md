@@ -1,5 +1,8 @@
 **What is *Founders & Coders*?**  
-Founders & Coders runs the [Collective Academy](camdencollective.co.uk/academy/) in Camden Town, an intensive full-time course in web development funded through [*Camden Town Unlimited*](http://www.camdentownunlimited.com/).
+Founders & Coders is primarily an idea: the idea that everyone should have the right to a first-class training in the skills that will give them creative control over their livelihood. 
+
+**What is Collective Academy**    
+The [Collective Academy](camdencollective.co.uk/academy/) is a pilot project, an intensive full-time course in web development funded entirely through [*Camden Town Unlimited*](http://www.camdentownunlimited.com/).
 
 **What is the aim of the course?**    
 To give students sufficient skills in web development to seek freelance projects, to find employment, or to work on their own web-based startup.
