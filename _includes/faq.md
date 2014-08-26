@@ -17,13 +17,13 @@ Eight weeks.
 In Camden Town.
 
 **How often does the course run?**    
-there have been fours courses in 2014. We hope to run more in 2015, but there are nodates yet.
+We have run four courses For Collective Academy in 2014. We hope to run more in 2015, but we have no dates as yet.
 
 **What are the hours of study?**    
 The minimum commitment is Monday to Friday, 10am-6pm. There is homework, too.
 
 **How is the classroom organised?**    
-The course is project-based with 16 students working in teams of four. Students take turns to deliver seminars, run code reviews, manage projects, and edit their team's online presence.
+The course is project-based with sixteen students working in four teams of four. Students take turns to deliver seminars, run code reviews, manage projects, and edit their team's online presence.
 
 **What are the main reasons I should take this course?**    
 The skills it will give you. The quality of the learning experience. The *Founders & Coders* community.
@@ -35,7 +35,7 @@ There are no fees.
 There probably is one, but we can't think of it right now.
 
 **If this course is so good, why are you offering it for free?**    
-Maiinly because, thanks to the generosity of our funders, we can.
+Mainly because, thanks to the generosity of our funders, we can.
 
 **Who is this course suitable for?**  
 There are no academic requirements, but not everyone will be suited to the style of learning this course requires. You need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
@@ -50,7 +50,7 @@ You will join the *Founders & Coders* community, which offers a growing range of
 Quite possibly. A number of our graduates have worked on freelance projects with us before moving on to other things.
 
 **I want to work on my own startup idea after the course. Can you help?**  
-Through the course, through our alumni network, and through the wider [Collective](http://camdencollective.co.uk/) community, we offer access to a wider startup community in Camden.
+Through the course, through our alumni network, and through the wider [Collective](http://camdencollective.co.uk/) community, you have access to a big startup community in Camden.
 
 **I want to find employment as a web developer after the course. Can you help?**    
 We have a small roster of employers who have already given jobs to our graduates and are accepting applications for internships from our students.
