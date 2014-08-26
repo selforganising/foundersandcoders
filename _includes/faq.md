@@ -17,7 +17,7 @@ Eight weeks.
 In Camden Town.
 
 **How often does the course run?**    
-Three times a year.
+there have been fours courses in 2014. We hope to run more in 2015, but there are nodates yet.
 
 **What are the hours of study?**    
 The minimum commitment is Monday to Friday, 10am-6pm. There is homework, too.
