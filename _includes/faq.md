@@ -1,5 +1,5 @@
 **What is *Founders & Coders*?**  
-Founders & Coders is primarily an idea: the idea that everyone should have the right to a first-class training in the skills that will give them creative control over their livelihood. 
+Founders & Coders is primarily just an idea: that a good education does not have to be expensive. Collective Academy is a first attempt to realise this idea.
 
 **What is Collective Academy**    
 The [Collective Academy](camdencollective.co.uk/academy/) is a pilot project, an intensive full-time course in web development funded entirely through [*Camden Town Unlimited*](http://www.camdentownunlimited.com/).
