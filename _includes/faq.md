@@ -32,16 +32,16 @@ The skills it will give you. The quality of the learning experience. The *Founde
 There are no fees.
 
 **What's the catch?**    
-The catch is that when you finish the course, we expect you to go and do something wonderful.
+There probably is one, but we can't think of it right now.
 
 **If this course is so good, why are you offering it for free?**    
-We are trying to build a community and we do not think we can do that by charging an entry fee. 
+Maiinly because, thanks to the generosity of our funders, we can.
 
 **Who is this course suitable for?**  
 There are no academic requirements, but not everyone will be suited to the style of learning this course requires. You need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
 
 **Are there any restrictions on who can apply?**  
-Anyone over the age of 18 can apply. We particularly welcome applications from people aged 18-24 who live of have studied in Camden (who typically make up around half of each cohort).
+Anyone over the age of 18 can apply, but the number of applications we receive for each course greatly exceeds the places available.
 
 **What happens after the course ends?**  
 You will join the *Founders & Coders* community, which offers a growing range of opportunities for course graduates.
@@ -50,13 +50,13 @@ You will join the *Founders & Coders* community, which offers a growing range of
 Quite possibly. A number of our graduates have worked on freelance projects with us before moving on to other things.
 
 **I want to work on my own startup idea after the course. Can you help?**  
-Through the course and through our alumni network, we will introduce you to a pool of potential co-founders and developers. And we are part of [Collective](http://camdencollective.co.uk/), which offers free co-working space and access to a wider startup community in Camden.
+Through the course, through our alumni network, and through the wider [Collective](http://camdencollective.co.uk/) community, we offer access to a wider startup community in Camden.
 
 **I want to find employment as a web developer after the course. Can you help?**    
 We have a small roster of employers who have already given jobs to our graduates and are accepting applications for internships from our students.
 
 **How long has the course been running?**    
-The first course ran early in 2014 and the third cohort graduated in August.
+The first course ran early in 2014 and our fourth cohort graduates in November.
 
 **Can you give me a bit more information about the course content?**    
 It is subject to change, but here is a brief run-down: development environments, source control, agile development, static websites, HTML, CSS, client-side programming, JavaScript, the DOM, AJAX, APIs, server-side programming, MVC, Databases, REST, build tools, testing, data visualisation, client-side applications, product development.
