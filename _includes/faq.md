@@ -50,7 +50,7 @@ You will join the *Founders & Coders* community, which offers a growing range of
 Quite possibly. A number of our graduates have worked on freelance projects with us before moving on to other things.
 
 **I want to work on my own startup idea after the course. Can you help?**  
-Through the course, through our alumni network, and through the wider [Collective](http://camdencollective.co.uk/) community, you have access to a big startup community in Camden.
+Through the course, through our alumni network, and through the wider [Collective](http://camdencollective.co.uk/) community, you have access to a big startup community in Camden Town.
 
 **I want to find employment as a web developer after the course. Can you help?**    
 We have a small roster of employers who have already given jobs to our graduates and are accepting applications for internships from our students.
