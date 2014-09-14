@@ -25,7 +25,7 @@ There will be sixteen of you starting together on Monday 15th September. We are 
 
 To help with the selection, we would like you to spend a couple of minutes to complete the [Index of Learning Styles Questionnaire](http://www.engr.ncsu.edu/learningstyles/ilsweb.html) and send the results to [dan@foundersandcoders.org](mailto:academy@selforganising.org) before we meet.
 
-####How to find us
+####How to find us <a name="findus"></a>
 
 We are in the basement at the back of 26 Camden High Street, NW1 0JH, which is now the Black Sheep coffee shop.
 
