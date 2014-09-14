@@ -27,9 +27,9 @@ To help with the selection, we would like you to spend a couple of minutes to co
 
 ####How to find us
 
-We are in the basement at the back of 26 Camden High Street, NW1 0JH.
+We are in the basement at the back of 26 Camden High Street, NW1 0JH, which is now the Black Sheep coffee shop.
 
-We are two minutes walk from Mornington Crescent tube. Just go through the front door of the shop and straight down the steps or call Dan on 07727 207 226 when you arrive.
+We are two minutes walk from Mornington Crescent tube. Just go through the front door of the cafe, up the steps, past the counter, down the spiral stairs  and into the back room.
 
 ![The Collective side door at 26 Camden High Street](/images/no26.jpg)
 
