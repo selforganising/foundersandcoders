@@ -62,5 +62,5 @@ The first course ran early in 2014 and our fourth cohort graduates in November.
 It is subject to change, but here is a brief run-down: development environments, source control, agile development, static websites, HTML, CSS, client-side programming, JavaScript, the DOM, AJAX, APIs, server-side programming, MVC, Databases, REST, build tools, testing, data visualisation, client-side applications, product development.
 
 **Which libraries and tools will we be using?**    
-Again, it is subject to change, but here is a partial list: Git, Jekyll, Bootstrap, Sass, jQuery, EJS, Node.js, MongoDB, Jade, Jasmine, Gulp, Bower, D3.js, AngularJS.
+Again, it is subject to change, but here is a partial list: Git, Jekyll, Bootstrap, Sass, jQuery, Node.js, hapi, MongoDB, Mocha, Gulp, Bower, D3, AngularJS.
 
