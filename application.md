@@ -1,5 +1,5 @@
 ---
-title: Founders & Coders Application 
+title: Collective Academy Application 
 layout: info
 ---
 
