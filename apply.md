@@ -1,9 +1,9 @@
 ---
 layout: singleton
-title: Apply for a course
+title: Apply for the next cohort
 ---
 
-Applications are not yet open, but we expect to run our next course in London early in 2015.
+Applications are not yet open and we are still looking for a venue, but we expect to run our next course somewhere in London early in 2015.
 
 In the mean time, we recommend starting on the following application assignments, which you will need to complete for your application.
 
