@@ -1,5 +1,5 @@
 **What is *Founders & Coders*?**  
-*Founders & Coders* is a community of freelance developers who love building great software and want to help others to do so, too.
+*Founders & Coders* is a community of freelance developers who love building great software. We run a free coding school, too.
 
 **What is the aim of the courses you run?**    
 To give students sufficient skills in web development to seek freelance projects, to find employment, or to work on their own web-based startup.
