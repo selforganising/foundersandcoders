@@ -17,7 +17,7 @@ Wherever we can find space.
 Classes run Monday to Friday, 10am-6pm, but expect to study at least 50 hours per week.
 
 **How is the classroom organised?**    
-Courses are project-based with sixteen students working in four teams of four. Students take turns to deliver seminars, run code reviews and manage projects.
+Courses are project based with sixteen students working in four teams of four. Students take turns to deliver seminars, run code reviews and manage projects.
 
 **What are the main reasons I should take a course?**    
 The skills it will give you. The quality of the learning experience. The *Founders & Coders* community.
@@ -29,7 +29,7 @@ There are no fees.
 There probably is one, but we can't think of it right now.
 
 **If these courses are so good, why are you offering them for free?**    
-Because thanks to the generosity and support of the Founders & Coders community, we can.
+Because thanks to the generosity and support of the *Founders & Coders* community, we can.
 
 **Who are these courses suitable for?**  
 There are no academic requirements, but not everyone will be suited to the style of learning our courses require. You need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
@@ -41,7 +41,7 @@ Anyone over the age of 18 can apply, but the number of applications we receive f
 We reckon that on average it takes about 1,000 hours to become a competent full-stack developer. That will take 20 weeks, working 50 hours a week. The eight-week course will give you a good foundation, but it won't get you all the way there.
 
 **Can you help me after the course finishes?**    
-If after the end of the course, you are still serious about making a living as a developer, we will do what we can to find projects for you to work on for paying clients, but we cannot guarantee anything. We are a community of freelancers and we cannot offer employment. What we can offer is mentoring and support while you find your feet. You will need to find a way to subsidise yourself financially, while you hone your skills.
+If, after the end of the course, you are still serious about making a living as a developer, we will do what we can to find projects for you to work on for paying clients, but we cannot guarantee anything. We are a community of freelancers and we cannot offer employment. What we can offer is mentoring and support while you find your feet. You will need to find a way to subsidise yourself financially while you hone your skills.
 
 **I want to find employment as a web developer after the course. Can you help?**    
 We have a small roster of employers who have already given jobs to our graduates and are accepting applications for internships from our students.
