@@ -1,5 +1,5 @@
 ---
-layout: singleton
+layout: info
 title: Apply for the next cohort
 ---
 
