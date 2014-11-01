@@ -3,6 +3,8 @@ layout: singleton
 title: Apply for the next cohort
 ---
 
+**[COME TO OUR OPEN DAY THIS FRIDAY AT 4.30](http://www.eventbrite.co.uk/e/collective-academy-open-day-tickets-14015319197)**
+
 Applications are not yet open and we are still looking for a venue, but we expect to run our next course somewhere in London early in 2015.
 
 In the mean time, we strongly recommend that you start on the following assignments, which you will need to complete as part of the application process.
