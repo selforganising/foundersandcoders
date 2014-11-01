@@ -2,7 +2,7 @@
 *Founders & Coders* is a community of freelance developers who love building great software. We run a free coding school, too.
 
 **What is the aim of the coding courses you run?**    
-To give students sufficient skills in web development to seek freelance projects, to find employment, or to work on their own web-based startup.
+To give students sufficient skills in web development to join our community of freelancers, to find employment, or to work on their own web-based startup.
 
 **What will I learn?**  
 You will learn how to create software and build web applications using *JavaScript*, *Node.js*, and a wide variety of libaries and tools.
@@ -32,13 +32,13 @@ We are trying to build a community and we do not think we can do that by chargin
 There are no academic requirements, but not everyone will be suited to the style of learning our courses require. You need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
 
 **Are there any restrictions on who can apply?**  
-Anyone over the age of 18 can apply, but the number of applications we receive for each course greatly exceeds the places available.
+Anyone over the age of 18 can apply.
 
 **Will I be a productive developer after the end of the course**    
 We reckon that on average it takes about 1,000 hours to become a competent full-stack developer. That will take 20 weeks, working 50 hours a week. The eight-week course will give you a good foundation, but it won't get you all the way there.
 
 **Can you help me after the course finishes?**    
-If, after the end of the course, you are still serious about making a living as a developer, we will do what we can to find projects for you to work on for paying clients, but we cannot guarantee anything. We are a community of freelancers and we cannot offer employment. What we can offer is mentoring and support while you find your feet. You will need to find a way to subsidise yourself financially while you hone your skills.
+At the end of the course, if you are serious about becoming a good developer, we will do what we can to find projects for you to work on. We are a community of freelancers and we cannot guarantee work or offer employment. What we can offer is mentoring and support while you find your feet.
 
 **I want to find employment as a web developer after the course. Can you help?**    
 We have a small roster of employers who have already given jobs to our graduates and are accepting applications for internships from our students.
