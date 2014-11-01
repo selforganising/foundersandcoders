@@ -25,9 +25,6 @@ The skills it will give you. The quality of the learning experience. The *Founde
 **How much does it cost?**  
 There are no fees.
 
-**What's the catch?**    
-There probably is one, but we can't think of it right now.
-
 **If these courses are so good, why are you offering them for free?**    
 We are trying to build a community and we do not think we can do that by charging an entry fee.
 
