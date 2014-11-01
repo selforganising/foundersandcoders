@@ -1,7 +1,7 @@
 **What is *Founders & Coders*?**  
 *Founders & Coders* is a community of freelance developers who love building great software. We run a free coding school, too.
 
-**What is the aim of the courses you run?**    
+**What is the aim of the coding courses you run?**    
 To give students sufficient skills in web development to seek freelance projects, to find employment, or to work on their own web-based startup.
 
 **What will I learn?**  
@@ -29,7 +29,7 @@ There are no fees.
 There probably is one, but we can't think of it right now.
 
 **If these courses are so good, why are you offering them for free?**    
-Because thanks to the generosity and support of the *Founders & Coders* community, we can.
+We are trying to build a community and we do not think we can do that by charging an entry fee.
 
 **Who are these courses suitable for?**  
 There are no academic requirements, but not everyone will be suited to the style of learning our courses require. You need to be self-motivated, prepared to work long hours, and committed to collaborative working. Coding also requires a deep curiosity about how things work and a certain stubbornness in the face of repeated failure.
