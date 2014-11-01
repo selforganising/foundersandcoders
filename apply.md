@@ -5,7 +5,7 @@ title: Apply for the next cohort
 
 Applications are not yet open and we are still looking for a venue, but we expect to run our next course somewhere in London early in 2015.
 
-In the mean time, we recommend starting on the following application assignments, which you will need to complete for your application.
+In the mean time, we strongly recommend that you start on the following assignments, which you will need to complete as part of the application process.
 
 #####[Codecademy's HTML & CSS](http://www.codecademy.com/tracks/web)
 
