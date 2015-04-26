@@ -4,7 +4,7 @@ title: Invariant programming
 ---
 After looking at [*Decomposing a problem using recursion*](/2014/04/17/recursion.html), we have not finished with recursion and we have not finished with the factorial function either.
 
-Although the recursive factorial function we came up with last time is nice, it is still not the best possible solution to this simple problem. Here it is again:
+Here is a solution to the factorial function again:
 
     def factorial(n):
         if n == 0: 
@@ -34,7 +34,7 @@ With invariant programming, each recursive call uses both intermediate inputs an
 
 The program does not need to keep track of each recursive call and do a final calculation (in this case, multiplication by *n*) before returning a result.
 
-Tail recursive calls do not require a *call stack*. The compiler does not need to do what is called *tail call optimisation*. Languages like Python, Java and almost all widely-used languages cannot do tail call optimisation and using recursive functions that are not tail recursive will eventually lead to stack overflows.
+Tail recursive calls do not require a *call stack*, if the compiler is capable of doing *tail call optimisation*. Languages like Python, Java and almost all widely-used languages cannot do tail call optimisation and using recursive functions even if they are tail recursive will eventually lead to a stack overflow.
 
 Here is what the call stack for the original definition looks like for factorial(5):
 
@@ -55,8 +55,6 @@ And here is the invariant stack:
     factorial(1 - 1, 1 * 120 )
     120
 
-There is no stack explosion in the invariant version.
+With a tail-recursive compiler, there would be no stack explosion in the invariant version.
 
 For a clear exposition of invariant programming, see Peter Van Roy's excellent [Paradigms of Computer Programming](https://www.edx.org/course/louvainx/louvainx-louv1-01x-paradigms-computer-1203).
-
-Invariant programming is the way to go. Try to use it if you can.
